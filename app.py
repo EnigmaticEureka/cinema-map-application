@@ -33,7 +33,7 @@ app = dash.Dash(__name__)
 app.title = "Kino Map"
 
 # Create figure
-fig = px.scatter_mapbox(
+fig = px.scatter_map(
     df,
     lat="Latitude",
     lon="Longitude",
@@ -86,4 +86,4 @@ def display_click_info(clickData):
 if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 8080))
-    app.run_server(debug=False, host="0.0.0.0", port=port)
+    app.run(debug=False, host="0.0.0.0", port=port)
