@@ -31,7 +31,7 @@ app = dash.Dash(__name__)
 app.title = "Kino Map"
 
 # Base figure
-fig = px.scatter_mapbox(
+fig = px.scatter_map(
     df, lat="Latitude", lon="Longitude", color="status",
     hover_name="hovertext",
     hover_data={"Latitude": False, "Longitude": False, "email": False, "status": False, "Kino": False, "Ort": False},
@@ -98,7 +98,7 @@ def update_map(search_text):
         search_text.lower() in str(row["status"]).lower(),
         axis=1
     )]
-    new_fig = px.scatter_mapbox(
+    new_fig = px.scatter_map(
         filtered, lat="Latitude", lon="Longitude", color="status",
         hover_name="hovertext", zoom=5, height=700,
         title=f"Kinos gefiltert nach: '{search_text}'",
