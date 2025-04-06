@@ -50,11 +50,11 @@ app.layout = html.Div([
     html.H1("🎬 Interaktive Kino-Karte"),
     html.Div([
         html.Div([
-            html.Label("🔍 Suche Kino, Ort oder Email:"),
+            html.Label("🔍 Suche Kino, Ort oder Email:    "),
             dcc.Input(
                 id="search-input", type="text",
                 placeholder="z.B. Cineplex, Berlin, info@...",
-                style={"width": "100%", "padding": "8px", "marginBottom": "15px", "fontFamily": "'Inter', Arial, sans-serif"}
+                style={"width": "40%", "padding": "8px", "marginBottom": "15px", "fontFamily": "'Inter', Arial, sans-serif"}
             ),
             dcc.Graph(id="map", figure=fig, style={"flex": "3"})
         ], style={"flex": "3", "fontFamily": "'Inter', Arial, sans-serif"}),
@@ -67,7 +67,6 @@ app.layout = html.Div([
                 "height": "fit-content"
             }),
             html.Div(id="copy-target", style={"display": "none"}),  # holds email only
-            # html.Button("📋 Copy Email", id="copy-btn", n_clicks=0, style={"marginLeft": "20px", "marginTop": "10px"}),
             dcc.Clipboard(target_id="copy-target", title="Email kopieren", style={"marginLeft": "20px", "marginTop": "5px"})
         ], style={"flex": "1"})
     ], style={"display": "flex", "flexDirection": "row"})
