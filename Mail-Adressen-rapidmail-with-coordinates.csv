@@ -1,7 +1,7 @@
 email,PLZ,Kino,Ort,status,Latitude,Longitude
 info@motorenhalle.de,1067.0,Motorenhalle,Dresden,active,51.0561186,13.7179257
 info@ufa-dresden.de,1069.0,UFA-Kristallpalast Dresden,Dresden,active,51.0441559,13.7348537
-info@filmnaechte.de,1097.0,Filmn�chte am Elbufer,Dresden,active,51.0561637,13.7419464
+info@filmnaechte.de,1097.0,Filmnächte am Elbufer,Dresden,active,51.0561637,13.7419464
 kontakt@schauburg-dresden.de,1099.0,Filmtheater Schauburg,Dresden,active,51.0712391,13.7475208
 thalia-dresden@gmx.de,1099.0,Thalia,Dresden,bounced,51.0712372,13.7294479
 elbepark@uci-kinowelt.de,1139.0,UCI Elbe Park,Dresden,active,51.0823959,13.6937114
@@ -12,30 +12,30 @@ info@kino-im-dach.de,1277.0,KID - Kino im Dach,Dresden,active,51.0409594,13.7981
 info@programmkino-ost.de,1277.0,Programmkino Ost,Dresden,active,51.0394187,13.8040374
 service@tsd.de,1277.0,Ernemann VII B Museumskino,Dresden,active,51.0380602,13.7730002
 info@palastkino.de,1445.0,Palastkino Radebeul,Radebeul,bounced,51.0380293,13.7109845
-info@filmgalerie-grossenhain.de,1558.0,Filmgalerie,Gro�enhain,active,51.291602,13.5299584
+info@filmgalerie-grossenhain.de,1558.0,Filmgalerie,Großenhain,active,51.291602,13.5299584
 riesa@filmpalast-kino.de,1587.0,Filmpalast Capitol Riesa,Riesa,active,51.3053686,13.3012282
-info@castello-kino.de,1609.0,Castello,Gr�ditz,active,51.4090034,13.4405398
-meissen@filmpalast-kino.de,1662.0,Filmpalast Mei�en,Mei�en,active,51.1651472,13.4700259
-kontakt@zentralgasthof.com,1689.0,Sommernachtkino hinterm Zentralgasthof,Weinb�hla,active,51.161533,13.5605317
+info@castello-kino.de,1609.0,Castello,Gröditz,active,51.4090034,13.4405398
+meissen@filmpalast-kino.de,1662.0,Filmpalast Meißen,Meißen,active,51.1651472,13.4700259
+kontakt@zentralgasthof.com,1689.0,Sommernachtkino hinterm Zentralgasthof,Weinböhla,active,51.161533,13.5605317
 pirna@filmpalast-kino.de,1796.0,Filmpalast Pirna,Pirna,active,50.9619163,13.9318419
 info@kino-grenzland-lichtspiele.de,1844.0,Grenzland Lichtspiele,Neustadt in Sachsen,active,51.026535,14.2123311
 info@wandelhof-online.de,1987.0,Extra-Kinowelt im Freizeitpark Wandelhof,Schwarzheide,active,51.4810942,13.845022
 bautzen@filmpalast-kino.de,2625.0,Filmpalast Bautzen,Bautzen,active,51.1792434,14.4295777
 kino@steinhaus-bautzen.de,2625.0,Steinhaus Kino,Bautzen,bounced,51.1802283,14.4294535
-steinhaus@steinhaus-bautzen.de,2625.0,Open-Air Kino im Freihof Gedenkst�tte,Bautzen,active,51.1825195,14.4175822
+steinhaus@steinhaus-bautzen.de,2625.0,Open-Air Kino im Freihof Gedenkstätte,Bautzen,active,51.1825195,14.4175822
 info@kino-ebersbach.de,2730.0,Filmtheater Ebersbach,Ebersbach-Neugersdorf,active,51.0070508,14.5767823
-info@kunstbauerkino.de,2747.0,Kunstbauerkino,Gro�hennersdorf,active,50.9914727,14.7934525
+info@kunstbauerkino.de,2747.0,Kunstbauerkino,Großhennersdorf,active,50.9914727,14.7934525
 info@hillerschevilla.de,2763.0,Kronenkino,Zittau,active,50.8980173,14.796352
-kultur@hillerschevilla.de,2763.0,Zittauer Filmn�chte,Zittau,bounced,50.89902,14.8336698
+kultur@hillerschevilla.de,2763.0,Zittauer Filmnächte,Zittau,bounced,50.89902,14.8336698
 v.kirchmaier@kulturfabrik-meda.de,2763.0,Kulturfabrik MEDA in Mittelherwigsdorf,Mittelherwigsdorf,active,50.9216003,14.7406037
 zittau@filmpalast-kino.de,2763.0,Filmpalast Zittau,Zittau,active,50.8956764,14.804166
-erikaheine@klappe-die-zweite.com,2826.0,Offkino Klappe die Zweite,G�rlitz,active,51.1545826,14.9857384
-filmclub.goerlitz@gmail.com,2826.0,CamilloKino,G�rlitz,active,51.1558333,14.9910308
-goerlitz@filmpalast-kino.de,2826.0,Palast Theater G�rlitz,G�rlitz,active,51.1468418,14.9800072
-kontakt@camillokino.de,2826.0,Camillo-Sommerkino im Rathaushof,G�rlitz,deleted,51.1558333,14.9910308
+erikaheine@klappe-die-zweite.com,2826.0,Offkino Klappe die Zweite,Görlitz,active,51.1545826,14.9857384
+filmclub.goerlitz@gmail.com,2826.0,CamilloKino,Görlitz,active,51.1558333,14.9910308
+goerlitz@filmpalast-kino.de,2826.0,Palast Theater Görlitz,Görlitz,active,51.1468418,14.9800072
+kontakt@camillokino.de,2826.0,Camillo-Sommerkino im Rathaushof,Görlitz,deleted,51.1558333,14.9910308
 kino-cafe-rietschen@hotmail.com,2956.0,Kino-Cafe,Rietschen,active,51.3960976,14.7838854
 hoyerswerda@cinemotion-kino.de,2977.0,CineMotion - Hoyerswerda,Hoyerswerda,active,51.4382527,14.2425527
-info@krabatmuehle.de,2977.0,Open Air an der Krabatm�hle Schwarzkollm,Hoyerswerda,active,51.4287406,14.1464552
+info@krabatmuehle.de,2977.0,Open Air an der Krabatmühle Schwarzkollm,Hoyerswerda,active,51.4287406,14.1464552
 karsten.held@kufa-hoyerswerda.de,2977.0,Blow Up,Hoyerswerda,active,51.4287406,14.1464552
 buehne8@arcor.de,3046.0,Kino ACHT,Cottbus,active,51.7415109,14.2819507
 fischer@gladhouse.de,3046.0,Freiluftkino im Glad-House-Garten...,Cottbus,active,51.7415109,14.2819507
@@ -53,30 +53,30 @@ info@luru-kino.de,4179.0,Open-Air-Kino in der Spinnerei,Leipzig,active,51.32654,
 leipzig@cineplex.de,4209.0,Cineplex Leipzig,Leipzig,active,51.3196009,12.2896939
 cmarx@landesfilmdienst-sachsen.de,4229.0,Filmclub KassaBlanka,Leipzig,active,51.3308053,12.3297047
 info@cineding-leipzig.de,4229.0,Cineding,Leipzig,active,51.3308019,12.3297152
-service@schaubuehne.com,4229.0,Schaub�hne Lindenfels,Leipzig,active,51.3319513,12.3318602
+service@schaubuehne.com,4229.0,Schaubühne Lindenfels,Leipzig,active,51.3319513,12.3318602
 susanneschoenberg@web.de,4229.0,Schauburg,Leipzig,active,51.320167,12.3259683
 info@cinematheque-leipzig.de,4275.0,die naTo,Leipzig,active,51.3251134,12.3706733
 buero@utconnewitz.de,4277.0,UT Connewitz,Leipzig,active,51.3088455,12.3699287
-feedback@kinobar-leipzig.de,4277.0,Kinobar Prager Fr�hling,Leipzig,active,51.311012,12.3736677
+feedback@kinobar-leipzig.de,4277.0,Kinobar Prager Frühling,Leipzig,active,51.311012,12.3736677
 impressum@kino-taucha.de,4425.0,CT Lichtspiele Taucha,Taucha,bounced,51.3787454,12.4893148
 info@kulturkino-zwenkau.de,4442.0,KulturKino zwenkau,Zwenkau,active,51.2203903,12.3298897
-kinogroitzsch@online.de,4539.0,B�rgerhauskino Groitzsch,Groitzsch,active,51.1565227,12.2777133
-m.venohr@bofimax.de,4600.0,Capitol,Altenburg,active,50.9822222,12.4335307
-m.venohr@bofimax.de,4600.0,Capitol,D�beln,active,51.1210471,13.1132347
-m.venohr@bofimax.de,4600.0,Capitol,Leipzig,active,51.33854,12.3989697
-m.venohr@bofimax.de,4600.0,Cinema,Altenburg,active,50.9822222,12.4335307
-m.venohr@bofimax.de,4600.0,Cinema,D�beln,active,51.1210742,13.1112296
-m.venohr@bofimax.de,4600.0,Cinema,Leipzig,active,51.3374938,12.3716529
-m.venohr@bofimax.de,4600.0,Regina Palast,Altenburg,active,51.3390483,12.3989082
-m.venohr@bofimax.de,4600.0,Regina Palast,D�beln,active,51.3390483,12.3989082
-m.venohr@bofimax.de,4600.0,Regina Palast,Leipzig,active,51.3390483,12.3989082
+kinogroitzsch@online.de,4539.0,Bürgerhauskino Groitzsch,Groitzsch,active,51.1565227,12.2777133
+m.venohr@bofimax.de,4600.0,Capitol / Cinema / Regina Palast,Altenburg / Döbeln / Leipzig,active,50.9822222,12.4335307
+m.venohr@bofimax.de,4600.0,Capitol / Cinema / Regina Palast,Altenburg / Döbeln / Leipzig,active,51.1210471,13.1132347
+m.venohr@bofimax.de,4600.0,Capitol / Cinema / Regina Palast,Altenburg / Döbeln / Leipzig,active,51.33854,12.3989697
+m.venohr@bofimax.de,4600.0,Capitol / Cinema / Regina Palast,Altenburg / Döbeln / Leipzig,active,50.9822222,12.4335307
+m.venohr@bofimax.de,4600.0,Capitol / Cinema / Regina Palast,Altenburg / Döbeln / Leipzig,active,51.1210742,13.1112296
+m.venohr@bofimax.de,4600.0,Capitol / Cinema / Regina Palast,Altenburg / Döbeln / Leipzig,active,51.3374938,12.3716529
+m.venohr@bofimax.de,4600.0,Capitol / Cinema / Regina Palast,Altenburg / Döbeln / Leipzig,active,51.3390483,12.3989082
+m.venohr@bofimax.de,4600.0,Capitol / Cinema / Regina Palast,Altenburg / Döbeln / Leipzig,active,51.3390483,12.3989082
+m.venohr@bofimax.de,4600.0,Capitol / Cinema / Regina Palast,Altenburg / Döbeln / Leipzig,active,51.3390483,12.3989082
 s.erfurth@bofimax.de,4600.0,Capitol,Altenburg,active,50.9822222,12.4335307
 thomas-hildebrand@msn.com,4668.0,Central Theater Grimma,Grimma,active,51.2360206,12.7239165
-info@bofimax.de,4720.0,CiD - Cinema in D�beln,D�beln,bounced,51.1210742,13.1112296
+info@bofimax.de,4720.0,CiD - Cinema in Döbeln,Döbeln,bounced,51.1210742,13.1112296
 post@kap-torgau.de,4860.0,Sommernachtskino,Torgau,active,51.5574531,12.9967801
 post@kulturbastion.de,4860.0,KAP-Kino in der Kulturbastion,Torgau,active,51.55476,13.0025496
 info@kino-zazie.de,6108.0,Zazie,Halle an der Saale,active,51.4865,11.9638497
-kulturbuero@halle.de,6108.0,Freilichtb�hne Pei�nitz,Halle an der Saale,active,51.4919185,11.945254
+kulturbuero@halle.de,6108.0,Freilichtbühne Peißnitz,Halle an der Saale,active,51.4919185,11.945254
 post@puschkino.de,6108.0,PUSCHKINo,Halle an der Saale,active,51.4917707,11.9649596
 comcenter-halle@t-online.de,6110.0,BelEtage,Halle an der Saale,active,51.4750988,11.980539
 post@luchskino.de,6114.0,Lux-Kino am Zoo,Halle an der Saale,active,51.5060037,11.9583174
@@ -84,23 +84,23 @@ luxkino@gmx.de,6118.0,Freiluftkino im Nordbad,Halle an der Saale,bounced,51.5060
 kontakt@lightcinemas.de,6122.0,the light cinema,Halle an der Saale,active,51.4793609,11.9179111
 kino@domstadtkino-merseburg.de,6217.0,Domstadt Kino Merseburg,Merseburg,active,51.3560619,11.990287
 novaeventis@uci-kinowelt.de,6237.0,UCI Nova Eventis (Saale Park),Leuna,active,51.3460792,12.1725112
-cinecircus@web.de,6366.0,Cine Circus,K�then,active,51.7516769,11.9790972
+cinecircus@web.de,6366.0,Cine Circus,Köthen,active,51.7516769,11.9790972
 info@capitolbernburg.de,6406.0,Capitol Kino Bernburg,Bernburg,active,51.7936172,11.7425645
 info@aschersleben-kino.de,6449.0,Filmpalast Aschersleben,Aschersleben,active,51.7561509,11.4543471
 studiokino-eisenstein@gmx.de,6484.0,"Studiokino Eisenstein""""",Quedlinburg,active,51.79089,11.1479597
 centraltheater@t-online.de,6502.0,Central-Theater,Thale,active,51.7458508,11.0293984
 info@panorama-museum.de,6567.0,Stuki 76,Bad Frankenhausen,active,51.3622601,11.0535747
 naumburg@cineplex.de,6618.0,Cineplex Naumburg,Naumburg an der Saale,active,51.1508942,11.8115815
-kontakt@bruehl-cinema.de,6712.0,Br�hl Cinema,Zeitz,active,51.1508942,11.8115815
-buero@kiez-ev.de,6844.0,KIEZ-Kino,Dessau-Ro�lau,active,51.83954,12.2440297
-dessau@uci-kinowelt.de,6844.0,UCI Dessau,Dessau-Ro�lau,active,51.8395148,12.2357485
-info@kiez-kino.de,6844.0,Open Air am Landhaus Dessau,Dessau-Ro�lau,active,51.8395129,12.2176756
-kino@kiez-ev.de,6844.0,Open Air im Stadtpark,Dessau-Ro�lau,bounced,51.8395129,12.2176756
-schwabehaus@gmx.de,6844.0,Sommerkino im Schwabehaus,Dessau-Ro�lau,active,51.838451,12.2396778
+kontakt@bruehl-cinema.de,6712.0,Brühl Cinema,Zeitz,active,51.1508942,11.8115815
+buero@kiez-ev.de,6844.0,KIEZ-Kino,Dessau-Roßlau,active,51.83954,12.2440297
+dessau@uci-kinowelt.de,6844.0,UCI Dessau,Dessau-Roßlau,active,51.8395148,12.2357485
+info@kiez-kino.de,6844.0,Open Air am Landhaus Dessau,Dessau-Roßlau,active,51.8395129,12.2176756
+kino@kiez-ev.de,6844.0,Open Air im Stadtpark,Dessau-Roßlau,bounced,51.8395129,12.2176756
+schwabehaus@gmx.de,6844.0,Sommerkino im Schwabehaus,Dessau-Roßlau,active,51.838451,12.2396778
 kino@centralkino-wittenberg.de,6886.0,Central-Theater,Lutherstadt Wittenberg,active,51.8697852,12.6507359
 saalfeld@cineplex.de,7318.0,Cineplex Saalfeld,Saalfeld an der Saale,active,50.6488898,11.3565232
 info@kinotechnik24.de,7356.0,Kino  1...,Bad Lobenstein,active,50.4503993,11.5606089
-info@saalgaerten.de,7407.0,Sommerkino in den Bauernh�usern,Rudolstadt,active,50.7186963,11.332867
+info@saalgaerten.de,7407.0,Sommerkino in den Bauernhäusern,Rudolstadt,active,50.7186963,11.332867
 rudolstadt@cineplex.de,7407.0,Cineplex Rudolstadt,Rudolstadt,active,50.7183073,11.3326536
 stadt-rudolstadt@rudolstadt.de,7407.0,Freiluftkino im Schillergarten,Rudolstadt,active,50.7211291,11.3324115
 filmclub-comma@gmx.de,7545.0,Kino im COMMA...,Gera,active,50.8719374,12.0734358
@@ -111,7 +111,7 @@ info@kinoammarkt.de,7743.0,Kino am Markt,Jena,active,50.9286589,11.5855607
 jena@cinestar.de,7743.0,CineStar - Der Filmpalast,Jena,active,50.926618,11.583395
 filmev@jenaonline.de,7749.0,Filmarena,Jena,active,50.9255005,11.5810371
 info@schillerhof.org,7749.0,Kino im Schillerhof,Jena,active,50.931211,11.5963104
-info@schleizer-kino.de,7907.0,Neues Kino im H�rsaal,Schleiz,active,50.581897,11.8096622
+info@schleizer-kino.de,7907.0,Neues Kino im Hörsaal,Schleiz,active,50.581897,11.8096622
 kinocenter@ut99.de,7973.0,UT 99,Greiz,active,50.6567098,12.1976879
 kontakt@alter-gasometer.de,8056.0,Casablanca,Zwickau,active,50.723185,12.4976236
 zwickau@filmpalast-kino.de,8056.0,Filmpalast Astoria Zwickau,Zwickau,active,50.723185,12.4976236
@@ -133,7 +133,7 @@ m54@gmx.net,9114.0,M54,Chemnitz,active,50.8607649,12.9203091
 clubkino@gmx.de,9117.0,Clubkino Siegmar,Chemnitz,active,50.8153133,12.8363358
 info@kinderfilmdienst.de,9119.0,Kinderfilmhaus,Chemnitz,active,50.8203209,12.8947506
 kinderfilmdienst@t-online.de,9119.0,KINO - mobil,Chemnitz,active,50.820319,12.8766777
-filmclub@tu-chemnitz.de,9126.0,Campusfilmn�chte auf dem Sportplatz...,Chemnitz,active,50.8174958,12.9179602
+filmclub@tu-chemnitz.de,9126.0,Campusfilmnächte auf dem Sportplatz...,Chemnitz,active,50.8174958,12.9179602
 info@kino-apollo.de,9212.0,Apollo,Limbach-Oberfrohna,active,50.8600374,12.7590002
 ftcapitol@t-online.de,9337.0,Capitol-Filmtheater,Hohenstein-Ernstthal,bounced,50.8009862,12.7049989
 kontakt@lichtkino.de,9350.0,Clubkino Capitol,Lichtenstein in Sachsen,active,50.7570708,12.62971
@@ -148,7 +148,7 @@ info@russisches-haus.de,10117.0,Kino im Russ. Haus d. Wissenschaft & K.,Berlin,a
 buero@acudkino.de,10119.0,Acud Kino,Berlin,active,52.5333169,13.3984463
 berlinalexanderplatz@cinestar.de,10178.0,CineStar - CUBIX Filmpalast,Berlin,active,52.520281,13.4093278
 grossman@babylonberlin.de,10178.0,BABYLON,Berlin,active,52.5259378,13.4088432
-info@hoefekino.de,10178.0,Hackesche H�fe Kino,Berlin,active,52.5240485,13.399646
+info@hoefekino.de,10178.0,Hackesche Höfe Kino,Berlin,active,52.5240485,13.399646
 info@humboldt-box.com,10178.0,Humbold-Box Berlin,Berlin,bounced,52.5178131,13.3978064
 info@kino-central.de,10178.0,Central,Berlin,active,52.5202885,13.3911847
 info@kikiblofeld.de,10179.0,Kiki Blofeld Open-Air,Berlin,bounced,52.5202579,13.3291691
@@ -164,9 +164,9 @@ info@planetarium.berlin,10405.0,Kino im Planetarium,Berlin,active,52.5430158,13.
 info@lichtblick-kino.org,10435.0,Lichtblick,Berlin,active,52.5364864,13.4052435
 kulturbrauerei@cinestar.de,10435.0,Kino in der Kulturbrauerei,Berlin,active,52.5387386,13.4112622
 colosseum@uci-kinowelt.de,10437.0,UCI Colosseum,Berlin,bounced,52.5478454,13.4103058
-info@dasfilmcafe.de,10437.0,Downstairs-Kino im Filmcaf�,Berlin,bounced,52.5478436,13.3922328
+info@dasfilmcafe.de,10437.0,Downstairs-Kino im Filmcafé,Berlin,bounced,52.5478436,13.3922328
 kinokrokodil@email.de,10437.0,Kino Krokodil,Berlin,active,52.5478436,13.3922328
-info@adk.de,10557.0,Akademie der K�nste,Berlin,active,52.5523563,13.336925
+info@adk.de,10557.0,Akademie der Künste,Berlin,active,52.5523563,13.336925
 info@filmrausch.de,10557.0,Filmrauschpalast...,Berlin,active,52.5523563,13.336925
 info@hkw.de,10557.0,Haus der Kulturen der Welt,Berlin,active,52.5185185,13.3618846
 mail@kinoundkonzerte.de,10585.0,Open Air im Schloss Charlottenburg,Berlin,bounced,52.5204669,13.2934923
@@ -198,23 +198,23 @@ gropiuspassagen@uci-kinowelt.de,12351.0,UCI Luxe Gropius Passagen,Berlin,active,
 berlintreptow@cinestar.de,12435.0,CineStar - Der Filmpalast,Berlin,active,52.4917393,13.4558135
 info@lohmuehle-berlin.de,12435.0,,,deleted (unsubscribed),52.4917393,13.4558135
 info@fez-berlin.de,12459.0,FeZ Berlin,Berlin,active,52.4852967,13.4458166
-info@kino-spreehoefe.de,12459.0,Kino Spreeh�fe,Berlin,active,52.4621161,13.5096243
+info@kino-spreehoefe.de,12459.0,Kino Spreehöfe,Berlin,active,52.4621161,13.5096243
 info@astra-filmpalast.de,12487.0,Astra-Filmpalast,Berlin,active,52.4465538,13.504469
 casablanca-berlin@gmx.de,12489.0,Casablanca,Berlin,active,52.4358161,13.5452913
-dani@das-autokino.de,12529.0,Autokino Berlin - am Gro�flughafen BER,Berlin,bounced,52.364556,13.5049605
+dani@das-autokino.de,12529.0,Autokino Berlin - am Großflughafen BER,Berlin,bounced,52.364556,13.5049605
 info@kino-union.de,12587.0,Freiluftkino Friedrichshagen,Berlin,active,52.4594761,13.6210742
 berlinhellersdorf@cinestar.de,12627.0,CineStar - Der Filmpalast Berlin-Hellersdorf,Berlin,active,52.5379491,13.6014926
 info@kiste.net,12627.0,Kino Kiste,Berlin,active,52.5379491,13.6014926
 ameastgate@uci-kinowelt.de,12681.0,UCI am Eastgate,Berlin,active,52.5418335,13.5395654
-berlin@cinemotion-kino.de,13051.0,CineMotion - Berlin-Hohensch�nhausen,Berlin,active,52.5659708,13.5066669
+berlin@cinemotion-kino.de,13051.0,CineMotion - Berlin-Hohenschönhausen,Berlin,active,52.5659708,13.5066669
 info@brotfabrik-berlin.de,13086.0,Kino in der Brotfabrik,Berlin,bounced,52.5525733,13.4279079
-info@freilichtbuehne-weissensee.de,13086.0,Freilichtb�hne am Wei�en See,Berlin,active,52.5560476,13.4607132
+info@freilichtbuehne-weissensee.de,13086.0,Freilichtbühne am Weißen See,Berlin,active,52.5560476,13.4607132
 kontakt@kino-toni.de,13086.0,Kino Toni und Tonino,Berlin,active,52.5488637,13.4482813
 blauerstern@t-online.de,13156.0,Blauer Stern,Berlin,active,52.5804065,13.398816
 info@nomadenkino.de,13347.0,Nomadenkino Open Air im Stadtbad,Berlin,bounced,52.5803777,13.3188134
 info@citykinowedding.de,13349.0,City Kino Wedding,Berlin,active,52.5803777,13.3188134
 rehberge@pifflmedien.de,13351.0,Freiluftkino Rehberge,Berlin,active,52.5549314,13.3276555
-info@berliner-autokino.de,13405.0,B�rliner Autokino,Berlin,bounced,52.550239,13.3047453
+info@berliner-autokino.de,13405.0,Bärliner Autokino,Berlin,bounced,52.550239,13.3047453
 berlintegel@cinestar.de,13507.0,CineStar - Der Filmpalast,Berlin,active,52.5839152,13.2835613
 mikropolis-film@email.de,13597.0,OpenAirKino Spandau,Berlin,active,52.5364125,13.1989293
 gammert@balikino-berlin.de,14169.0,Bali-Kino,Berlin,active,52.431831,13.2570427
@@ -233,13 +233,13 @@ brandenburg@cinemotion-kino.de,14776.0,CineMotion - Concerthaus-Kinos Brandenbur
 frankfurtoder@cinestar.de,15230.0,CineStar - Der Filmpalast,Frankfurt an der Oder,active,52.3435965,14.5507935
 info@altes-kino-letschin.de,15324.0,Haus Lichtblick,Letschin,active,52.6445182,14.3567708
 info@parklichtspiele.de,15377.0,Saal  1...,Buckow,active,52.5699532,14.0681876
-info@filmtheater-union.de,15517.0,Union,F�rstenwalde an der Spree,active,52.3635222,14.0368041
+info@filmtheater-union.de,15517.0,Union,Fürstenwalde an der Spree,active,52.3635222,14.0368041
 info@kino-movieland.de,15537.0,Movieland,Erkner,active,52.4221217,13.7509667
-kontakt@capitol-kw.de,15711.0,Capitol,K�nigs Wusterhausen,active,52.2967653,13.6273401
+kontakt@capitol-kw.de,15711.0,Capitol,Königs Wusterhausen,active,52.2967653,13.6273401
 berlinwildau@cinestar.de,15745.0,CineStar - Der Filmpalast Wildau,Wildau,active,52.3142723,13.6011017
 info@schukurama.de,15848.0,Kino Schukurama,Beeskow,active,52.1757151,14.2463902
-eisenhuettenstadt@filmpalast-kino.de,15890.0,Filmpalast Eisenh�ttenstadt,Eisenh�ttenstadt,bounced,52.1521737,14.6314746
-info@spreewald-lichtspiele.de,15907.0,Spreewald Lichtspiele,L�bben im Spreewald,active,51.9426144,13.8918631
+eisenhuettenstadt@filmpalast-kino.de,15890.0,Filmpalast Eisenhüttenstadt,Eisenhüttenstadt,bounced,52.1521737,14.6314746
+info@spreewald-lichtspiele.de,15907.0,Spreewald Lichtspiele,Lübben im Spreewald,active,51.9426144,13.8918631
 tomstar-nr1@web.de,15936.0,Kino-Cafe Dahme,Dahme,active,51.8685112,13.4262229
 info@moviemagic-eberswalde.de,16225.0,Movie Magic,Eberswalde-Finow,bounced,52.8363629,13.7844769
 filmforum@twschwedt.de,16303.0,Filmforum Schwedt,Schwedt,active,53.0688241,14.262984
@@ -251,10 +251,10 @@ lindenkino@freenet.de,16868.0,Linden-Kino,Wusterhausen,active,52.8899403,12.4589
 info@kino-astoria.de,16909.0,Kino Astoria Wittstock,Wittstock,active,53.1627076,12.4839532
 info@kulturhaus-pritzwalk.de,16928.0,Kino im Kulturhaus,Pritzwalk,active,53.1530207,12.1696537
 neubrandenburg@cinestar.de,17033.0,CineStar - Der Filmpalast,Neubrandenburg,active,53.5579449,13.2648718
-verein@latuecht.de,17033.0,Lat�cht - Kommunales Kino,Neubrandenburg,active,53.5579449,13.2648718
+verein@latuecht.de,17033.0,Latücht - Kommunales Kino,Neubrandenburg,active,53.5579449,13.2648718
 info@cineweb.de,17109.0,Filmeck Demmin,Demmin,bounced,53.9060264,13.043846
-info@wobau-demmin.de,17109.0,Waldb�hne Demmin,Demmin,active,53.9060264,13.043846
-waren@cinestar.de,17192.0,CineStar - Der Filmpalast,Waren an der M�ritz,active,53.5188484,12.6788781
+info@wobau-demmin.de,17109.0,Waldbühne Demmin,Demmin,active,53.9060264,13.043846
+waren@cinestar.de,17192.0,CineStar - Der Filmpalast,Waren an der Müritz,active,53.5188484,12.6788781
 info@wobau-malchow.de,17213.0,Kino Malchow,Malchow,active,53.4705043,12.4058835
 info@basiskulturfabrik.de,17235.0,fabrik,Neustrelitz,active,53.3676359,13.0557176
 neustrelitz@moviestar-net.de,17235.0,Movie Star,Neustrelitz,active,53.350356,13.0738655
@@ -263,7 +263,7 @@ info@juriclub.de,17258.0,Clubkino,Feldberger Seenlandschaft,active,53.3421957,13
 info@mkc-templin.de,17268.0,Kino im Multikulturellen Centrum,Templin,active,53.1218362,13.5050243
 kino@lychen.de,17279.0,Altes Kino Lychen,Lychen,bounced,53.2095298,13.3127149
 prenzlau@cinemotion-kino.de,17291.0,CineMotion - Union Filmtheater Prenzlau,Prenzlau,active,53.3153698,13.8568976
-a.kuhn@kino-ueckermuende.de,17373.0,Volksb�hne Ueckerm�nde,Ueckerm�nde,active,53.7385207,14.0420461
+a.kuhn@kino-ueckermuende.de,17373.0,Volksbühne Ueckermünde,Ueckermünde,active,53.7385207,14.0420461
 info@kino-anklam.de,17389.0,Kino-Center Anklam,Anklam,active,53.8584671,13.6922259
 mail@club-kino.de,17459.0,Autokino Usedom,Koserow,active,54.0632133,13.9795974
 greifswald@cinestar.de,17489.0,CineStar - Der Filmpalast,Greifswald,active,54.0973327,13.373018
@@ -272,17 +272,17 @@ mail@liwu.de,18057.0,Lichtspieltheater Wundervoll Metropol,Rostock,active,54.088
 rostockcs@cinestar.de,18107.0,CineStar - Der Filmpalast,Rostock,active,54.1389816,12.0542358
 info@ostsee-welten.de,18119.0,Ostsee-Welten 5D,Rostock,active,54.1748475,11.9857936
 info@kino-doberan.de,18209.0,Kamp-Theater,Bad Doberan,active,54.1070252,11.9003362
-peer.kretzschmar@t-online.de,18225.0,Strandkorb-Kino am Bootshafen,K�hlungsborn,active,54.1070252,11.9003362
-moviestarkino@hotmail.com,18273.0,Movie Star,G�strow,active,53.79759,12.1698257
-moviestarkino@hotmail.com,18273.0,Movie Star,Sangerhausen & Wittenberge,active,52.2323983,10.1376019
+peer.kretzschmar@t-online.de,18225.0,Strandkorb-Kino am Bootshafen,Kühlungsborn,active,54.1070252,11.9003362
+moviestarkino@hotmail.com,18273.0,Movie Star,Güstrow / Sangerhausen & Wittenberge,active,53.79759,12.1698257
+moviestarkino@hotmail.com,18273.0,Movie Star,Güstrow / Sangerhausen & Wittenberge,active,52.2323983,10.1376019
 sommerkinowustrow@gmx.de,18347.0,Sommerkino Wustrow,Ostseebad Wustrow,active,54.3517074,12.3854697
 hans-georg-will@web.de,18374.0,Lichtspiele Zingst,Zingst,bounced,54.3517074,12.3854697
 info@kino-prerow.de,18375.0,Cinema Prerow,Prerow,active,54.4257411,12.584853
 stralsund@cinestar.de,18439.0,CineStar - Der Filmpalast,Stralsund,active,54.3109374,13.0875713
-info@uc-kino-ruegen.de,18528.0,UC - You See Kino im R�gencenter Bergen,Bergen auf R�gen,active,54.422471,13.4161357
+info@uc-kino-ruegen.de,18528.0,UC - You See Kino im Rügencenter Bergen,Bergen auf Rügen,active,54.422471,13.4161357
 orga@kino-lichtspiele-sassnitz.de,18546.0,Lichtspiele,Sassnitz,active,54.5148717,13.6407823
-medias@online.de,18586.0,Kom�die R�gen,G�hren,bounced,54.3426532,13.737829
-p.michael.bels@web.de,18586.0,Kinohalle (Campingplatz) Waldkino,G�hren,active,54.3426532,13.737829
+medias@online.de,18586.0,Komödie Rügen,Göhren,bounced,54.3426532,13.737829
+p.michael.bels@web.de,18586.0,Kinohalle (Campingplatz) Waldkino,Göhren,active,54.3426532,13.737829
 kino@megamovies.de,19053.0,Multiplex MegaMovies,Schwerin,active,53.6216338,11.3987887
 schwerin@filmpalast-kino.de,19053.0,Filmpalast Capitol Schwerin,Schwerin,active,53.629852,11.4074751
 info@kino-boizenburg.de,19258.0,Kino-Boizenburg,Boizenburg,active,53.3741965,10.7195837
@@ -296,7 +296,7 @@ info@filmraum.net,20257.0,FilmRaum,Hamburg,active,53.5798371,9.9399802
 info@outdoor-cine.de,20257.0,Outdoor-Cine,Hamburg,active,53.5981929,9.8308508
 info@kinemathek-hamburg.de,20354.0,Freiluftkino,Hamburg,bounced,53.5981929,9.8308508
 info@3001-kino.de,20357.0,3001 Kino,Hamburg,active,53.5621042,9.9631152
-ralf@3001-kino.de,20357.0,Filmn�chte am Millerntor,Hamburg,active,53.5534428,9.9656088
+ralf@3001-kino.de,20357.0,Filmnächte am Millerntor,Hamburg,active,53.5534428,9.9656088
 b-movie@b-movie.de,20359.0,B-Movie,Hamburg,active,53.5534428,9.9656088
 info@hamburg.astor-filmlounge.de,20457.0,Astor Film Lounge Hafen City,Hamburg,active,53.5433902,9.9931157
 dieterlangeug@aol.com,21031.0,Hansa-Filmstudio Bergedorf,Hamburg,active,53.4934616,10.2048119
@@ -304,11 +304,11 @@ info@lola-hh.de,21031.0,Lola Kulturzentrum,Hamburg,active,53.4934616,10.2048119
 hofabuero@honigfabrik.de,21107.0,Honigfabrik,Hamburg,active,53.5156966,9.9799958
 info@insel-lichtspiele.de,21107.0,Open-Air Kino auf der Elbinsel Wilhelmsb,Hamburg,bounced,53.5156966,9.9799958
 info@movieplexx.de,21244.0,Movieplexx,Buchholz in der Nordheide,active,53.5172451,9.9812823
-info@scala-kino.net,21335.0,SCALA Programmkino,L�neburg,active,53.2490196,10.4045214
-lueneburg@filmpalast-kino.de,21337.0,Filmpalast L�neburg,L�neburg,active,53.2490196,10.4045214
+info@scala-kino.net,21335.0,SCALA Programmkino,Lüneburg,active,53.2490196,10.4045214
+lueneburg@filmpalast-kino.de,21337.0,Filmpalast Lüneburg,Lüneburg,active,53.2490196,10.4045214
 winsen@cinemotion-kino.de,21423.0,CineMotion - Winsen,Winsen an der Luhe,active,53.3642563,10.2054179
 frank.grimm@gmx.de,21493.0,Kino Grimm,Schwarzenbek,active,53.5023904,10.4751235
-info@kleinestheaterschillerstrasse.de,21502.0,Kleines Theater Schillerstra�e Kino  2...,Geesthacht,active,53.5023904,10.4751235
+info@kleinestheaterschillerstrasse.de,21502.0,Kleines Theater Schillerstraße Kino  2...,Geesthacht,active,53.5023904,10.4751235
 info@citykino-buxtehude.de,21614.0,City Kino Buxtehude,Buxtehude,active,53.473686,9.6927187
 info@service-kino.de,21629.0,DAS Kino,Neu Wulmstorf,active,53.4644485,9.7971323
 stade@cinestar.de,21680.0,CineStar - Der Filmpalast,Stade,active,53.602005,9.477959
@@ -318,7 +318,7 @@ wandsbek@uci-kinowelt.de,22047.0,UCI Wandsbek,Hamburg,active,53.5882667,10.09412
 mundsburg@uci-kinowelt.de,22083.0,UCI Mundsburg,Hamburg,active,53.57091,10.0247131
 info@magazinfilmkunst.de,22299.0,Magazin Filmkunsttheater,Hamburg,deleted (unsubscribed),53.5997711,10.0014176
 kino@alabama-kino.de,22303.0,Alabama-Kino,Hamburg,active,53.5833202,10.0182501
-info@outdoorcine.de,22305.0,Kinon�chte Barmbek,Hamburg,active,53.5833202,10.0182501
+info@outdoorcine.de,22305.0,Kinonächte Barmbek,Hamburg,active,53.5833202,10.0182501
 info@korallekino.de,22359.0,Koralle-Kino,Hamburg,active,53.6516111,10.160709
 info@elbe-kino.de,22549.0,Elbe-Filmtheater,Hamburg,active,53.5727731,9.8482567
 info@blankeneserkino.de,22587.0,Blankeneser Kino,Hamburg,active,53.5590957,9.8085807
@@ -328,42 +328,42 @@ info@studio-kino.de,22767.0,Studio-Kino,Hamburg,active,53.5572767,9.9557972
 warnix.machtnix@hamburg.de,22767.0,Lichtmess-Kino,Hamburg,active,53.5562555,9.9302189
 norderstedt@cinemotion-kino.de,22846.0,CineMotion - Spectrum Kino-Center Norderstedt,Norderstedt,active,53.7075453,9.9875685
 info@kino-bargteheide.de,22941.0,Cinema Paradiso,Bargteheide,bounced,53.7280474,10.2565507
-filmhaus-luebeck@cinestar.de,23552.0,Filmhaus L�beck,L�beck,active,53.8688122,10.6858426
-info@kinokoki.de,23552.0,Kommunales Kino L�beck,L�beck,active,53.8688122,10.6858426
-luebeckstadthalle@cinestar.de,23552.0,CineStar - Filmpalast Stadthalle,L�beck,active,53.8604379,10.6877003
+filmhaus-luebeck@cinestar.de,23552.0,Filmhaus Lübeck,Lübeck,active,53.8688122,10.6858426
+info@kinokoki.de,23552.0,Kommunales Kino Lübeck,Lübeck,active,53.8688122,10.6858426
+luebeckstadthalle@cinestar.de,23552.0,CineStar - Filmpalast Stadthalle,Lübeck,active,53.8604379,10.6877003
 badschwartau@moviestar-net.de,23611.0,Movie Star,Bad Schwartau,active,53.8604379,10.6877003
 info@beach-club-kino.de,23683.0,1,Scharbeutz,bounced,53.9185359,10.691838
 kinokrempertor@online.de,23730.0,Kino-Center Kremper Tor,Neustadt in Holstein,active,54.0190756,10.6086439
-moniwestphal@gmx.net,23743.0,Kino Gr�mitz,Gr�mitz,active,54.1509635,10.9565421
+moniwestphal@gmx.net,23743.0,Kino Grömitz,Grömitz,active,54.1509635,10.9565421
 info@lichtblick-filmtheater.de,23758.0,Lichtblick Filmtheater,Oldenburg in Holstein,active,54.2871162,10.8785382
 info@burgfilmtheater.de,23769.0,Burg Filmtheater,Fehmarn,active,54.4380376,11.1949345
 info@cp5.de,23795.0,CinePlanet 5,Bad Segeberg,active,53.9340802,10.3098222
 buero@oho-kino.de,23843.0,OHO-Kinocenter,Bad Oldesloe,active,53.8081816,10.366618
 info@oho-kino.de,23843.0,Open Air auf dem Marktplatz,Bad Oldesloe,active,53.8096794,10.3707936
 kino@reinfelder-lichtspiele.de,23858.0,Reinfelder-Lichtspiele,Reinfeld in Holstein,bounced,53.8096794,10.3707936
-info@eulenspiegel-kino.de,23879.0,Eulenspiegel Kino,M�lln,active,53.63191,10.7072897
+info@eulenspiegel-kino.de,23879.0,Eulenspiegel Kino,Mölln,active,53.63191,10.7072897
 filmclub@burgtheater-ratzeburg.de,23909.0,Norddeutsches Freiluftkino 4K,Ratzeburg,active,53.6970321,10.768273
 info@btrz.de,23909.0,Burgtheater Ratzeburg,Ratzeburg,active,53.6970321,10.768273
-schoenberg@orpheum-lichtspiele.net,23923.0,Orpheum Lichtspiele 70 mm,Sch�nberg,active,53.6967824,10.771788
+schoenberg@orpheum-lichtspiele.net,23923.0,Orpheum Lichtspiele 70 mm,Schönberg,active,53.6967824,10.771788
 info@filmbuero-mv.de,23966.0,Forumkino Wismar,Wismar,bounced,53.8901993,11.4488483
 wismar@cinestar.de,23970.0,CineStar - Der Filmpalast,Wismar,active,53.8901993,11.4488483
 gf@diepumpe.de,24103.0,Koki - Kommunales Kino in der Pumpe,Kiel,active,54.3244886,10.135648
 kino@studio-filmtheater.de,24103.0,Studio Filmtheater am Dreiecksplatz,Kiel,active,54.3244886,10.135648
-kontakt@metrokino-kiel.de,24105.0,metro - Kino im Schlo�hof,Kiel,active,54.3403673,10.1315225
+kontakt@metrokino-kiel.de,24105.0,metro - Kino im Schloßhof,Kiel,active,54.3403673,10.1315225
 info@hansa48.de,24118.0,Hansafilmpalast,Kiel,active,54.3403673,10.1315225
 kino@traumgmbh.de,24118.0,Traum-Kino,Kiel,active,54.3352203,10.1250822
 capitol@capitol-cine-center.de,24211.0,Capitol Filmtheater,Preetz,bounced,54.3349501,10.1143361
 thies.harm@yahoo.de,24211.0,Capitol Filmtheater,Preetz,active,54.2341712,10.2791955
-info@astrakino.de,24306.0,Astra-Filmtheater,Pl�n,active,54.1580579,10.4115684
-greenscreen-festival@web.de,24340.0,Ostsee-Info-Center,Eckernf�rde,bounced,54.4731148,9.8387765
-mail@dashauseck.de,24340.0,Kommunales Kino im Haus,Eckernf�rde,bounced,54.4731148,9.8387765
-info@kdw-neumuenster.de,24534.0,KDW,Neum�nster,deleted (unsubscribed),54.0702099,9.983292
-neumuenster@cinestar.de,24534.0,CineStar Neum�nster,Neum�nster,active,54.0702099,9.983292
+info@astrakino.de,24306.0,Astra-Filmtheater,Plön,active,54.1580579,10.4115684
+greenscreen-festival@web.de,24340.0,Ostsee-Info-Center,Eckernförde,bounced,54.4731148,9.8387765
+mail@dashauseck.de,24340.0,Kommunales Kino im Haus,Eckernförde,bounced,54.4731148,9.8387765
+info@kdw-neumuenster.de,24534.0,KDW,Neumünster,deleted (unsubscribed),54.0702099,9.983292
+neumuenster@cinestar.de,24534.0,CineStar Neumünster,Neumünster,active,54.0702099,9.983292
 info@savoy-bordesholm.de,24582.0,Savoy,Bordesholm,active,54.1737356,10.0266984
 eventsbyfrank@gmx.de,24628.0,Kino im Ferienpark Heiligenhafen,Hartenholm,active,54.1737356,10.0266984
 info@kinocenter-rendsburg.de,24768.0,Kinocenter-Rendsburg,Rendsburg,active,54.1737356,10.0266984
 info@schauburg-filmtheater.de,24768.0,Schauburg Filmtheater,Rendsburg,active,54.303339,9.6611157
-info@kunstwerk-carlshuette.de,24782.0,Rendsburger Open Air Kinosommer,B�delsdorf,active,54.3039888,9.661624
+info@kunstwerk-carlshuette.de,24782.0,Rendsburger Open Air Kinosommer,Büdelsdorf,active,54.3039888,9.661624
 schleswig@cinemotion-kino.de,24837.0,CineMotion - Capitol Filmpalast Schleswig,Schleswig,active,54.3039888,9.661624
 flensburg@uci-kinowelt.de,24937.0,UCI Flensburg,Flensburg,active,54.5161538,9.5631747
 info@51stufen.de,24937.0,51 Stufen,Flensburg,active,54.7853164,9.4344953
@@ -372,7 +372,7 @@ hanse-film@gmx.net,25355.0,Saturn,Barmstedt,active,53.7462969,9.693843
 info@burgkino.de,25436.0,Burg Theater,Uetersen,active,53.68319,9.6554197
 info@nordkino.de,25451.0,Beluga,Quickborn,active,53.7213769,9.8991528
 itzehoe@cinemotion-kino.de,25524.0,CineMotion - Itzehoe,Itzehoe,active,53.7213769,9.8991528
-info@metropol-theater.de,25541.0,Metropol-Theater,Brunsb�ttel,active,53.8970217,9.1378035
+info@metropol-theater.de,25541.0,Metropol-Theater,Brunsbüttel,active,53.8970217,9.1378035
 kinomeldorf@t-online.de,25704.0,Deutsches Haus-Lichtspiele,Meldorf,active,54.088688,9.0685535
 info@kino-heide.de,25746.0,LichtBlick Heide,Heide in Holstein,active,54.1929931,9.0878251
 postmaster@kino-center-husum.de,25813.0,Kinocenter Husum,Husum,bounced,54.4814627,9.0438304
@@ -380,7 +380,7 @@ stephan.hartung@kino-center-husum.de,25813.0,Kino-Center-Husum,Husum,active,54.4
 info@kino-nordlicht.de,25826.0,Kino Nordlicht,Sankt Peter-Ording,active,54.3143318,8.605456
 pelllicht@hotmail.de,25849.0,Pellwormer Lichtspiele in De Pellwormer Danzsool,Pellworm,active,54.502177,8.6528206
 deli-kino-leck@versanet.de,25917.0,Deli-Verzehrkino,Leck,bounced,54.771547,8.9719343
-kinoamsandwall@aol.com,25938.0,Filmtheater am Sandwall,Wyk auf F�hr,active,54.6874673,8.5668311
+kinoamsandwall@aol.com,25938.0,Filmtheater am Sandwall,Wyk auf Föhr,active,54.6874673,8.5668311
 info@kino-amrum.de,25946.0,Saal  1...,Norddorf auf Amrum,active,54.6796735,8.3322115
 info@kinowelt-sylt.de,25980.0,Kinowelt Sylt,Sylt,active,54.9087281,8.301694
 westerland@kinowelt-online.de,25980.0,Kinowelt Sylt,Sylt,bounced,54.9087281,8.301694
@@ -407,7 +407,7 @@ centraltheaterbrake@ctbrake.de,26919.0,Centraltheater Brake,Brake (Unterweser),a
 cinema-twistringen@online.de,27239.0,1,Twistringen,bounced,52.7895351,8.4114187
 c.muescher@cine-city.de,27283.0,Cine City,Verden an der Aller,active,52.7895351,8.4114187
 info@filmhofhoya.de,27318.0,Filmhof,Hoya,active,52.8100644,9.1428077
-info@kir-row.de,27356.0,Stadtkino,Rotenburg an der W�mme,active,53.1103381,9.4146242
+info@kir-row.de,27356.0,Stadtkino,Rotenburg an der Wümme,active,53.1103381,9.4146242
 kinozeven@t-online.de,27404.0,Central Theater,Zeven,active,53.1103381,9.4146242
 info@kino-cuxhaven.de,27472.0,Bali-Kino-Center,Cuxhaven,active,53.8614603,8.697289
 tourismusdirektor@helgoland.de,27498.0,Hochseekino Helgoland,Helgoland,active,54.1853198,7.8847584
@@ -421,8 +421,8 @@ info@bremerfilmkunsttheater.de,28195.0,Atlantis Filmtheater,Bremen,active,53.074
 info@city46.de,28195.0,City 46,Bremen,bounced,53.0747471,8.8025268
 thomas@cinema-ostertor.de,28203.0,Cinema Ostertor,Bremen,active,53.0728062,8.8202714
 burmester@cinespace.de,28237.0,Cinespace Waterfront,Bremen,active,53.1123925,8.7438511
-info@cinespace.de,28237.0,Cineplex,Bremen,active,53.1123925,8.7438511
-info@cinespace.de,28237.0,Cinespace Waterfront,Bremen,active,53.1123925,8.7438511
+info@cinespace.de,28237.0,Cineplex/Cinespace Waterfront,Bremen,active,53.1123925,8.7438511
+info@cinespace.de,28237.0,Cineplex/Cinespace Waterfront,Bremen,active,53.1123925,8.7438511
 bremen@cinestar.de,28307.0,CineStar Kristall-Palast,Bremen,active,53.0520082,8.9581268
 onlineredaktion@weser-kurier.de,28757.0,Weserkurier Open Air,Bremen,active,53.0520082,8.9581268
 info@film-palast-schwanewede.de,28790.0,Filmpalast Kinocenter,Schwanewede,active,53.0766748,8.8015335
@@ -431,8 +431,8 @@ info@hansakinosyke.de,28857.0,Hansa Kino Syke,Syke,active,52.9136191,8.8240262
 info@kammerlichtspiele-celle.com,29221.0,Kammer-Lichtspiele,Celle,active,52.6252343,10.0810527
 kontakt@kino-achteinhalb.de,29221.0,achteinhalb,Celle,active,52.6157437,10.0789311
 info@filmpalast-salzwedel.de,29410.0,Open Air im Burggarten,Salzwedel,active,52.8488026,11.1472112
-info@wendland-kino.de,29439.0,Saal  1...,L�chow im Wendland,active,52.9640392,11.1491172
-kultur@platenlaase.de,29479.0,Caf� Grenzbereiche,Jameln,active,53.0333824,11.0778659
+info@wendland-kino.de,29439.0,Saal  1...,Lüchow im Wendland,active,52.9640392,11.1491172
+kultur@platenlaase.de,29479.0,Café Grenzbereiche,Jameln,active,53.0333824,11.0778659
 info@central-theater-uelzen.de,29525.0,Central-Theater Uelzen,Uelzen,active,53.0333824,11.0778659
 central-theater@online.de,29574.0,Open Air Kino,Ebstorf,bounced,53.0291252,10.4122837
 info@dersakino-soltau.de,29614.0,Dersa Kino Soltau,Soltau,bounced,52.4327863,8.6144914
@@ -443,11 +443,11 @@ info@astor-grandcinema.de,30159.0,Astor Grand Cinema,Hannover,active,52.3804165,
 info@hochhaus-lichtspiele.de,30159.0,Hochhaus-Lichtspiele,Hannover,active,52.3804165,9.7305246
 koki@hannover-stadt.de,30159.0,Open Air im Theaterhof,Hannover,active,52.3769452,9.7291608
 info@filmkunstkinos-hannover.de,30161.0,Kino am Raschplatz,Hannover,active,52.3787531,9.7410677
-torbenscheller@aol.com,30161.0,Filmkunstkinos Hanover (Kino am Raschplatz,Neue Schauburg Northeim (2S�le),active,52.378753,9.741057
-torbenscheller@aol.com,30161.0,Hochhaus-Lichtspiele,Neue Schauburg Northeim (2S�le),active,52.378753,9.741057
-torbenscheller@aol.com,30161.0,Apollo Studio),Neue Schauburg Northeim (2S�le),active,51.7064896,9.9980119
+torbenscheller@aol.com,30161.0,"Filmkunstkinos Hanover (Kino am Raschplatz, Hochhaus-Lichtspiele, Apollo Studio)",Neue Schauburg Northeim (2Säle),active,52.378753,9.741057
+torbenscheller@aol.com,30161.0,"Filmkunstkinos Hanover (Kino am Raschplatz, Hochhaus-Lichtspiele, Apollo Studio)",Neue Schauburg Northeim (2Säle),active,52.378753,9.741057
+torbenscheller@aol.com,30161.0,"Filmkunstkinos Hanover (Kino am Raschplatz, Hochhaus-Lichtspiele, Apollo Studio)",Neue Schauburg Northeim (2Säle),active,51.7064896,9.9980119
 info@kino-im-sprengel.de,30167.0,Kino im Sprengel,Hannover,active,52.3874751,9.7181453
-info@music-and-sports-hall.de,30169.0,Sommerkino auf der Gilde Parkb�hne,Hannover,active,52.3874751,9.7181453
+info@music-and-sports-hall.de,30169.0,Sommerkino auf der Gilde Parkbühne,Hannover,active,52.3874751,9.7181453
 info@lodderbast.de,30175.0,Lodderbast,Hannover,active,52.3563243,9.7280399
 info@apollokino.de,30451.0,Apollo Studio,Hannover,active,52.3739754,9.7044612
 boese@pflegeheime-wilkening.de,30519.0,Puschenkino PUKI,Hannover,active,52.351877,9.7775278
@@ -460,21 +460,21 @@ info@thega-filmpalast.de,31141.0,Thega-Filmpalast,Hildesheim,active,52.1526871,9
 kino-peine@gmx.de,31224.0,Astoria-Theater,Peine,active,52.3243157,10.2267825
 info@das-andere-kino.de,31275.0,Das Andere Kino,Lehrte,active,52.374037,9.9749097
 neueschauburg@yahoo.de,31303.0,Neue Schauburg,Burgdorf,active,52.4486111,10.0026975
-info@vhs-hannover-land.de,31535.0,Cinema im Leinepark,Neustadt am R�benberge,active,52.505766,9.4645796
-kurt@badnenndorf.de,31542.0,Ph�nix Kurlichtspiele,Bad Nenndorf,active,52.3353864,9.3732838
+info@vhs-hannover-land.de,31535.0,Cinema im Leinepark,Neustadt am Rübenberge,active,52.505766,9.4645796
+kurt@badnenndorf.de,31542.0,Phönix Kurlichtspiele,Bad Nenndorf,active,52.3353864,9.3732838
 info@filmpalast-sulingen.de,31582.0,Filmpalast Nienburg,Nienburg an der Weser,active,52.6432455,9.2032295
-info@kinoschaumburg.de,31675.0,Residenz-Kino-Center,B�ckeburg,active,52.2607012,9.0467326
+info@kinoschaumburg.de,31675.0,Residenz-Kino-Center,Bückeburg,active,52.2607012,9.0467326
 info@kino-rinteln.de,31737.0,Kinocenter Rinteln,Rinteln,active,52.2607012,9.0467326
 hameln@cinemotion-kino.de,31785.0,CineMotion - Hameln,Hameln,active,52.101588,9.3708812
 info@sumpfblume.de,31785.0,Sumpfblume,Hameln,active,52.101588,9.3708812
 info@kronen-lichtspiele.de,31812.0,Kronenlichtspiele,Bad Pyrmont,active,51.9854095,9.2538772
 info@capitol-herford.de,32052.0,Capitol,Herford,bounced,52.1149214,8.666524
-info@kino-bad-salzuflen.de,32105.0,Filmb�hne Bad Salzuflen,Bad Salzuflen,active,52.0861111,8.7415864
+info@kino-bad-salzuflen.de,32105.0,Filmbühne Bad Salzuflen,Bad Salzuflen,active,52.0861111,8.7415864
 info@kino-spenge.de,32139.0,Zentral-Theater,Spenge,active,52.1414535,8.4858548
-info@bueli.de,32257.0,B�nder Lichtspiele,B�nde,active,52.1414535,8.4858548
-info@universum.tv,32257.0,Universum,B�nde,active,52.1960335,8.5783361
+info@bueli.de,32257.0,Bünder Lichtspiele,Bünde,active,52.1414535,8.4858548
+info@universum.tv,32257.0,Universum,Bünde,active,52.1960335,8.5783361
 jugendarbeit-kino@teleos-web.de,32278.0,Lichtblick,Kirchlengern,bounced,52.2000862,8.6376195
-info@else-lichtspiele.de,32289.0,Else-Lichtspiele,R�dinghausen,active,52.2000862,8.6376195
+info@else-lichtspiele.de,32289.0,Else-Lichtspiele,Rödinghausen,active,52.2000862,8.6376195
 meiers@lichtburg.com,32339.0,Elite,Espelkamp,active,52.37633,8.6263297
 info@dersakino-rahden.de,32369.0,Dersa Kino Rahden,Rahden,active,52.4327863,8.6144914
 badoeynhausen@uci-kinowelt.de,32547.0,UCI Bad Oeynhausen,Bad Oeynhausen,active,52.2140725,8.813603
@@ -483,25 +483,25 @@ info@detmold-kino.de,32756.0,Kaiserhof-Lichtspiele,Detmold,active,51.9398936,8.8
 info@filmwelt-lippe.de,32791.0,Filmwelt Lippe,Lage in Lippe,active,51.9398936,8.8698433
 kino@kinodriburg.de,33014.0,Kino Bad Driburg,Bad Driburg,active,51.7344288,9.0218152
 kino@kinobrakel.de,33034.0,Kino Brakel,Brakel,bounced,51.724602,9.1900463
-kd.klepsch@cineplex.de,33098.0,Cineplex Paderborn & M�nser,,active,51.7162496,8.7457347
+kd.klepsch@cineplex.de,33098.0,Cineplex Paderborn & Münser,,active,51.7162496,8.7457347
 paderborn@uci-kinowelt.de,33098.0,UCI Paderborn,Paderborn,active,51.7162496,8.7457347
 programmkino.lichtblick@googlemail.com,33098.0,Programmkino Lichtblick,Paderborn,active,51.708024,8.7694536
 manuela.fischer@bad-lippspringe.de,33175.0,Odins Filmtheater,Bad Lippspringe,active,51.708024,8.7694536
-bambikino@t-online.de,33330.0,FT Bambi,G�tersloh,active,51.9018448,8.3744627
-bambikino@t-online.de,33330.0,L�wenherz,G�tersloh,active,51.9018448,8.3744627
-guetersloh@cinestar.de,33330.0,CineStar - Der Filmpalast,G�tersloh,active,51.9045988,8.3752004
+bambikino@t-online.de,33330.0,FT Bambi/Löwenherz,Gütersloh,active,51.9018448,8.3744627
+bambikino@t-online.de,33330.0,FT Bambi/Löwenherz,Gütersloh,active,51.9018448,8.3744627
+guetersloh@cinestar.de,33330.0,CineStar - Der Filmpalast,Gütersloh,active,51.9045988,8.3752004
 info@offkino.de,33520.0,Offkino Bielefeld,Bielefeld,deleted (unsubscribed),52.0212009,8.5370627
 schwartz@lichtwerkkino.de,33602.0,Kamera Filmkunsttheater,Bielefeld,bounced,52.0212009,8.5370627
 post@lichtwerkkino.de,33607.0,Lichtwerk im Ravensberger Park,Bielefeld,active,52.0273184,8.5314544
 becker@brackwede.de,33647.0,Melodie Filmtheater,Bielefeld,bounced,51.9848762,8.4986876
-info@rhythmusfilm.de,33758.0,Rhythmus-Filmtheater,Schlo� Holte-Stukenbrock,active,51.9027862,8.6321452
-info@balikinos.de,34117.0,Gloria am St�ndeplatz,Kassel,active,51.9027862,8.6321452
+info@rhythmusfilm.de,33758.0,Rhythmus-Filmtheater,Schloß Holte-Stukenbrock,active,51.9027862,8.6321452
+info@balikinos.de,34117.0,Gloria am Ständeplatz,Kassel,active,51.9027862,8.6321452
 kassel@cineplex.de,34117.0,Cineplex,Kassel,active,51.3142013,9.4853473
 kassel@filmpalast-kino.de,34117.0,Filmpalast Kassel,Kassel,active,51.3136653,9.4883089
 melek.guerkan@cineplex-capitol.de,34117.0,Cineplexe,Kassel & Baunatal,active,51.2847992,9.4104179
 hofmann@filmladen.de,34119.0,Filmladen,Kassel,active,51.2847992,9.4104179
 baunatal@cineplex.de,34225.0,Cineplex Baunatal,Baunatal,active,51.3141878,9.4702631
-info@schiller-lichtspiele.de,34346.0,Schiller Lichtspiele,Hann. M�nden,active,51.4169271,9.6496801
+info@schiller-lichtspiele.de,34346.0,Schiller Lichtspiele,Hann. Münden,active,51.4169271,9.6496801
 ute.schlinker@cineplex.de,34414.0,Cineplex,Warburg,active,51.4169271,9.6496801
 warburg@cineplex.de,34414.0,Cineplex,Warburg,active,51.4980556,9.1476975
 mariadohmann@aol.com,34434.0,Central Kino,Borgentreich,active,51.5678569,9.237884
@@ -511,47 +511,47 @@ info@cine-royal.de,34560.0,Cine Royal,Fritzlar,active,51.12253,9.2736097
 kino.unger@t-online.de,34613.0,Burg-Theater,Schwalmstadt,active,50.9120144,9.1873346
 info@kinosommer-hessen.de,35037.0,Kinosommer Hessen,Marburg,active,50.8093843,8.7631214
 marion.closmann@cineplex.de,35037.0,Cineplex Marburg,Marburg,active,50.8090005,8.7709059
-info@cafetrauma.de,35039.0,Kino im Caf� Trauma,Marburg,active,50.8202473,8.7674234
+info@cafetrauma.de,35039.0,Kino im Café Trauma,Marburg,active,50.8202473,8.7674234
 info@kino-traumstern.de,35321.0,FreiLichtKino,Laubach,active,50.4620803,8.6766599
-011@kinopolis.de,35390.0,Kinocenter Gie�en,Gie�en,active,50.4620803,8.6766599
-jokus@giessen.de,35390.0,Kommunales Kino im Jokus,Gie�en,active,50.5875127,8.6794802
-kinopolis@kinopolis.de,35390.0,Saal  1...,Gie�en,active,50.5875122,8.6717286
-jromisch@giessen.de,35394.0,Jokus Sommerspektakel,Gie�en,bounced,50.5875298,8.6794009
-info@kino-butzbach.de,35510.0,FT Capitol,Butzbach,active,50.43339,8.6678797
-info@kino-butzbach.de,35510.0,Bambi,Butzbach,active,50.43339,8.6678797
+011@kinopolis.de,35390.0,Kinocenter Gießen,Gießen,active,50.4620803,8.6766599
+jokus@giessen.de,35390.0,Kommunales Kino im Jokus,Gießen,active,50.5875127,8.6794802
+kinopolis@kinopolis.de,35390.0,Saal  1...,Gießen,active,50.5875122,8.6717286
+jromisch@giessen.de,35394.0,Jokus Sommerspektakel,Gießen,bounced,50.5875298,8.6794009
+info@kino-butzbach.de,35510.0,FT Capitol/Bambi,Butzbach,active,50.43339,8.6678797
+info@kino-butzbach.de,35510.0,FT Capitol/Bambi,Butzbach,active,50.43339,8.6678797
 openair@kino-butzbach.de,35510.0,Open Air Kino Landgrafenschloss,Butzbach,active,50.43339,8.6678797
 016@kinopolis.de,35576.0,Rex Kinos,Wetzlar,active,50.557526,8.4944717
 buero@gloria-kinos.de,35683.0,Gloria Kinos Dillenburg,Dillenburg,deleted (unsubscribed),50.740816,8.2866144
 m.j.wunderer@web.de,35781.0,Delphi Filmtheater,Weilburg,active,50.4864132,8.2557565
-info@kino-weilmuenster.de,35789.0,Pastori - Das historische Lichtspielgasthaus,Weilm�nster,active,50.4333223,8.3675698
-filmbuehnefulda@arcor.de,36037.0,Museumscaf�,Fulda,active,50.551167,9.6755117
+info@kino-weilmuenster.de,35789.0,Pastori - Das historische Lichtspielgasthaus,Weilmünster,active,50.4333223,8.3675698
+filmbuehnefulda@arcor.de,36037.0,Museumscafé,Fulda,active,50.551167,9.6755117
 fulda@cinestar.de,36037.0,CineStar - Der Filmpalast,Fulda,active,50.551167,9.6755117
 info@biber-kino.de,36179.0,Biber Kino Center - Das Cinedrom,Bebra,active,50.966666,9.794274
 info@kinocenter-alsfeld.de,36304.0,Kinocenter Alsfeld,Alsfeld,active,50.7504053,9.2655599
 post@lichtspielhaus-lauterbach.de,36341.0,Lichtspielhaus,Lauterbach in Hessen,active,50.7504053,9.2655599
-kontakt@kukikino.de,36381.0,Kuki-Zelt,Schl�chtern,bounced,50.3467724,9.5259025
+kontakt@kukikino.de,36381.0,Kuki-Zelt,Schlüchtern,bounced,50.3467724,9.5259025
 info@pab-kino.de,36433.0,pab Kinocenter,Bad Salzungen,active,50.8093596,10.2180261
-info@lumiere.de,37073.0,Open Air Kino im Freibad,G�ttingen,active,51.5313663,9.9063596
+info@lumiere.de,37073.0,Open Air Kino im Freibad,Göttingen,active,51.5313663,9.9063596
 r.kleinecke@movietown.eu,37115.0,Movietown Eichsfeld,Duderstadt,active,51.510779,10.2490837
 info@neue-schauburg.de,37154.0,Neue Schauburg,Northeim,active,51.510779,10.2490837
 info@capitolkino.de,37213.0,Capitol-Kino,Witzenhausen,active,51.7064896,9.9980119
 056522356-001@t-online.de,37242.0,Atelier...,Bad Sooden-Allendorf,active,51.2701037,9.9632118
-club-d@web.de,37351.0,Club-D,Dingelst�dt,active,51.3218471,10.3137067
+club-d@web.de,37351.0,Club-D,Dingelstädt,active,51.3218471,10.3137067
 info@kinowelt-online.de,37412.0,Central-Lichtspiele,Herzberg am Harz,active,51.6557595,10.3364902
 info@kino-holzminden.de,37603.0,Neues Roxy,Holzminden,active,51.8259048,9.4464667
 info@c1-cinema.de,38100.0,Astor Filmtheater,Braunschweig,bounced,51.8259048,9.4464667
 kufahl@universum-filmtheater.de,38100.0,Universum Filmtheater,Braunschweig,active,52.2669263,10.5151762
-sff@tu-bs.de,38106.0,Studio f�r Filmkunst,Braunschweig,active,52.2734641,10.527101
+sff@tu-bs.de,38106.0,Studio für Filmkunst,Braunschweig,active,52.2734641,10.527101
 info@schunterkino.de,38108.0,SchunterKino,Braunschweig,active,52.2734641,10.527101
-info@kammerlichtspiele.com,38154.0,Kammerlichtspiele,K�nigslutter am Elm,active,52.2528239,10.8098144
+info@kammerlichtspiele.com,38154.0,Kammerlichtspiele,Königslutter am Elm,active,52.2528239,10.8098144
 chef@kultiplex.de,38226.0,Kultiplex,Salzgitter,active,52.1532081,10.3314891
 salzgitter@filmpassage.de,38226.0,Filmpassage Salzgitter,Salzgitter,active,52.1532081,10.3314891
 cinemasalzgitter@gmx.de,38259.0,Cinema,Salzgitter,active,52.0496761,10.3750684
-kino@filmpalast-wf.de,38300.0,Filmpalast,Wolfenb�ttel,active,52.0496761,10.3750684
-wolfenbuettel@cinestar.de,38300.0,CineStar - Der Filmpalast,Wolfenb�ttel,active,52.1614537,10.5378141
+kino@filmpalast-wf.de,38300.0,Filmpalast,Wolfenbüttel,active,52.0496761,10.3750684
+wolfenbuettel@cinestar.de,38300.0,CineStar - Der Filmpalast,Wolfenbüttel,active,52.1614537,10.5378141
 camera@helmstedterkinos.com,38350.0,Camera am Holzberg,Helmstedt,active,52.2269422,11.0059119
 roxy@helmstedterkinos.com,38350.0,Kino  1...,Helmstedt,active,52.2269417,10.9981603
-info@helmstedterkinos.com,38364.0,Open-Air-Kino,Sch�ningen,active,52.1407672,10.9625452
+info@helmstedterkinos.com,38364.0,Open-Air-Kino,Schöningen,active,52.1407672,10.9625452
 hausser@hallenbad.de,38440.0,Hallenbad - Kultur am Schachtweg,Wolfsburg,bounced,52.423993,10.7799367
 kontakt@delphin-palast.de,38440.0,Delphin Palast,Wolfsburg,active,52.423993,10.7799367
 metropol.fallersleben@online.de,38442.0,Metropol-Theater,Wolfsburg,bounced,52.4214436,10.7136606
@@ -568,32 +568,32 @@ magdeburg@cinestar.de,39128.0,CineStar - Der Filmpalast,Magdeburg,active,52.1803
 kinoleitung@kinoburg.de,39288.0,Burg-Theater,Burg,active,52.2706188,11.8490025
 kontakt@kinogenthin.de,39307.0,Union-Kino,Genthin,active,52.4045442,12.156
 stendal@cinemotion-kino.de,39576.0,CineMotion - Uppstall-Kinos,Stendal,active,52.6078699,11.856245
-atelier@filmkunstkinos.de,40210.0,Atelier Kino im Savoy-Theater,D�sseldorf,active,51.2185908,6.7818771
-info@ufa-duesseldorf.de,40210.0,UFA-Palast D�sseldorf,D�sseldorf,active,51.2185908,6.7818771
-bambi@filmkunstkinos.de,40211.0,Bambi-Filmstudio,D�sseldorf,active,51.2211771,6.7913926
-cinema@filmkunstkinos.de,40213.0,Cinema,D�sseldorf,active,51.2246396,6.7867128
-florian.deterding@duesseldorf.de,40213.0,Black-Box,D�sseldorf,active,51.2255449,6.7713015
-duesseldorf@uci-kinowelt.de,40219.0,UCI D�sseldorf,D�sseldorf,active,51.2131671,6.7489562
-metropol@filmkunstkinos.de,40223.0,Metropol,D�sseldorf,active,51.2067971,6.7758626
-alltours-kino@d-live.de,40474.0,Alltours Kino-Filmn�chte unter Sternen,D�sseldorf,active,51.238218,6.7671957
-souterrain@filmkunstkinos.de,40545.0,Souterrain-Kellerkino,D�sseldorf,active,51.2309671,6.749026
-info@moviescreens.de,40547.0,Open-Air Kino D�sseldorf-L�rick,D�sseldorf,active,51.238218,6.7671957
-duesseldorf@cinestar.de,40549.0,CineStar - Der Filmpalast,D�sseldorf,active,51.2427778,6.7171419
-playtime@filmkunstkinos.de,40591.0,Open Air Kino Vier Linden,D�sseldorf,active,51.2047222,6.805753
+atelier@filmkunstkinos.de,40210.0,Atelier Kino im Savoy-Theater,Düsseldorf,active,51.2185908,6.7818771
+info@ufa-duesseldorf.de,40210.0,UFA-Palast Düsseldorf,Düsseldorf,active,51.2185908,6.7818771
+bambi@filmkunstkinos.de,40211.0,Bambi-Filmstudio,Düsseldorf,active,51.2211771,6.7913926
+cinema@filmkunstkinos.de,40213.0,Cinema,Düsseldorf,active,51.2246396,6.7867128
+florian.deterding@duesseldorf.de,40213.0,Black-Box,Düsseldorf,active,51.2255449,6.7713015
+duesseldorf@uci-kinowelt.de,40219.0,UCI Düsseldorf,Düsseldorf,active,51.2131671,6.7489562
+metropol@filmkunstkinos.de,40223.0,Metropol,Düsseldorf,active,51.2067971,6.7758626
+alltours-kino@d-live.de,40474.0,Alltours Kino-Filmnächte unter Sternen,Düsseldorf,active,51.238218,6.7671957
+souterrain@filmkunstkinos.de,40545.0,Souterrain-Kellerkino,Düsseldorf,active,51.2309671,6.749026
+info@moviescreens.de,40547.0,Open-Air Kino Düsseldorf-Lörick,Düsseldorf,active,51.238218,6.7671957
+duesseldorf@cinestar.de,40549.0,CineStar - Der Filmpalast,Düsseldorf,active,51.2427778,6.7171419
+playtime@filmkunstkinos.de,40591.0,Open Air Kino Vier Linden,Düsseldorf,active,51.2047222,6.805753
 kino-wasserturm@web.de,40668.0,Kino am Wasserturm,Meerbusch,bounced,51.2047222,6.805753
 huff@schauplatz.de,40764.0,Schaustall,Langenfeld im Rheinland,active,51.1177292,6.9295783
 info@schauplatz.de,40764.0,Rex Lichtspiele,Langenfeld im Rheinland,active,51.1177292,6.9295783
 info@kinomettmann.de,40822.0,Open-Air-Kino,Mettmann,bounced,51.2526144,6.9741298
 weltspiegel@kinomettmann.de,40822.0,Weltspiegel-Theater,Mettmann,active,51.2526144,6.9741298
-info@comet-cine-center.de,41061.0,Comet Cine Center,M�nchengladbach,active,51.2525989,6.9741199
-info@haus-zoar.com,41061.0,Haus Zoar,M�nchengladbach,active,51.1953522,6.4322325
+info@comet-cine-center.de,41061.0,Comet Cine Center,Mönchengladbach,active,51.2525989,6.9741199
+info@haus-zoar.com,41061.0,Haus Zoar,Mönchengladbach,active,51.1953522,6.4322325
 office@corso-film-casino.de,41334.0,Corso-Film-Casino,Nettetal,bounced,51.3172142,6.1945706
 hitch@hitch.de,41460.0,Hitch,Neuss,active,51.3172142,6.1945706
 neuss@uci-kinowelt.de,41460.0,UCI Neuss,Neuss,active,51.1966999,6.6929074
 info@grefi-kino.de,41515.0,grefi-kino,Grevenbroich,active,51.088939,6.5915108
 chefmaster@kunst-kaarst.de,41564.0,Kino Kaarst,Kaarst,active,51.088939,6.5915108
 e.schulte@gloria-erkelenz.de,41812.0,Gloria - Filmpalast Erkelenz,Erkelenz,active,51.077851,6.3074898
-info@kino-hueckelhoven.de,41836.0,Corso-Filmpalast,H�ckelhoven,active,51.077851,6.3074898
+info@kino-hueckelhoven.de,41836.0,Corso-Filmpalast,Hückelhoven,active,51.077851,6.3074898
 dispo@offstream.de,42105.0,Offstream,Wuppertal,deleted (unsubscribed),51.2617699,7.1291089
 kontakt@talflimmern.de,42107.0,Talflimmern,Wuppertal,active,51.2617699,7.1291089
 info@movieinmotion.de,42115.0,Movie in Motion,Wuppertal,active,51.2617622,7.0981018
@@ -608,8 +608,8 @@ info@roxydortmund.de,44145.0,Roxy,Dortmund,active,51.5242259,7.4601083
 dortmund@cinestar.de,44147.0,CineStar - Der Filmpalast,Dortmund,active,51.5242259,7.4601083
 info@roxy-camera.de,44147.0,Camera,Dortmund,bounced,51.5195238,7.4589326
 info@sweetsixteen-kino.de,44147.0,sweetSixteen-Kino im Depot,Dortmund,active,51.5327194,7.4502263
-info@filmbuehne-dortmund.de,44287.0,"Filmb�hne Zur Postkutsche""""",Dortmund,active,51.4913214,7.5511562
-info@cineworld-luenen.de,44532.0,Cineworld L�nen,L�nen,active,51.4913214,7.5511562
+info@filmbuehne-dortmund.de,44287.0,"Filmbühne Zur Postkutsche""""",Dortmund,active,51.4913214,7.5511562
+info@cineworld-luenen.de,44532.0,Cineworld Lünen,Lünen,active,51.4913214,7.5511562
 info@filmwelt-herne.de,44623.0,Filmwelt Herne,Herne,bounced,51.6151653,7.5199619
 fiegekino08@cooltour.com,44787.0,Moritz Fiege Open Air,Bochum,active,51.4811782,7.2257994
 info@capitol-bochum.de,44787.0,CAPITOL,Bochum,active,51.4811782,7.2257994
@@ -623,7 +623,7 @@ info@endstation-kino.de,44894.0,Endstation Kino i.Bhf.Langend.,Bochum,active,51.
 info@lichtburg-essen.de,45127.0,Lichtburg,Essen,active,51.4793443,7.3182409
 info@essener-filmkunsttheater.de,45130.0,Galerie Cinema,Essen,active,51.4548388,7.0105527
 kontakt-ak-e@autokino-deutschland.de,45356.0,Drive In Autokino Essen,Essen,active,51.434193,7.0063608
-muelheim@filmpassage.de,45468.0,Filmpassage M�lheim,M�lheim an der Ruhr,active,51.4296049,6.8846623
+muelheim@filmpassage.de,45468.0,Filmpassage Mülheim,Mülheim an der Ruhr,active,51.4296049,6.8846623
 info@cineworld-recklinghausen.de,45657.0,Cineworld Recklinghausen,Recklinghausen,active,51.4296049,6.8846623
 multiplex-ge@gmx.de,45891.0,Apollo Cinemas Multiplex in Gelsenkirchen,Gelsenkirchen,active,51.6122222,7.1913086
 info@schauburg-gelsenkirchen.de,45897.0,Schauburg,Gelsenkirchen,active,51.5513825,7.0733182
@@ -644,18 +644,18 @@ info@hall-of-fame.website,47475.0,HALL OF FAME,Kamp-Lintfort,active,51.4298802,6
 kleverkinos@email.de,47533.0,Tichelpark 5 Cinemas,Kleve,active,51.4990606,6.5464844
 goli-freunde@gmx.de,47574.0,Goli,Goch,active,51.6788968,6.1554581
 herzog-theater.geldern@t-online.de,47608.0,Herzog-Theater,Geldern,active,51.6788968,6.1554581
-karsten@casablancakino.de,47798.0,FT Casablanca,Krefeld,active,51.5158333,6.323253
-karsten@casablancakino.de,47798.0,Cinema,Krefeld,active,51.2560054,6.4522439
+karsten@casablancakino.de,47798.0,FT Casablanca/Cinema,Krefeld,active,51.5158333,6.323253
+karsten@casablancakino.de,47798.0,FT Casablanca/Cinema,Krefeld,active,51.2560054,6.4522439
 info@schlachthof-krefeld.de,47799.0,Open Air Kino im SchlachtGarten,Krefeld,active,51.3240623,6.5641267
 info@swk-openairkino.de,47800.0,Open Air Kino Krefelder Rennbahn,Krefeld,active,51.3295123,6.5777214
 kultur@krefeld.de,47805.0,Fabrik Heeder,Krefeld,active,51.358129,6.5839057
 ftbjanssen@online.de,47906.0,Kempener Lichtspiele,Kempen,bounced,51.3228722,6.5698735
-info@cinema-muenster.de,48145.0,Cinema & Kurbelkiste,M�nster,active,51.3644319,6.4153494
-dispo.muenster@cineplex.de,48155.0,Cineplex M�nster,M�nster,active,51.950526,7.6342443
-info@theateramwall.de,48231.0,Paul-Schall�ck-Saal,Warendorf,active,51.950526,7.6342443
-webmaster@scala-studio.de,48231.0,FT Scala,Warendorf,bounced,51.950526,7.6342443
-webmaster@scala-studio.de,48231.0,Studio,Warendorf,bounced,51.9522115,7.9903366
-info@kino-duelmen.de,48249.0,Cinema D�lmen,D�lmen,active,51.9515114,7.8154419
+info@cinema-muenster.de,48145.0,Cinema & Kurbelkiste,Münster,active,51.3644319,6.4153494
+dispo.muenster@cineplex.de,48155.0,Cineplex Münster,Münster,active,51.950526,7.6342443
+info@theateramwall.de,48231.0,Paul-Schallück-Saal,Warendorf,active,51.950526,7.6342443
+webmaster@scala-studio.de,48231.0,FT Scala/Studio,Warendorf,bounced,51.950526,7.6342443
+webmaster@scala-studio.de,48231.0,FT Scala/Studio,Warendorf,bounced,51.9522115,7.9903366
+info@kino-duelmen.de,48249.0,Cinema Dülmen,Dülmen,active,51.9515114,7.8154419
 metropolis@cinetech.de,48282.0,Metropolis Kino Emsdetten,Emsdetten,bounced,51.8305822,7.2716775
 rheine@cinetech.de,48429.0,Cinetech das Erlebniskino,Rheine,active,52.2766691,7.4571849
 citykino@cinetech.de,48432.0,Citykino Rheine,Rheine,bounced,52.277587,7.4320585
@@ -664,65 +664,65 @@ info@kino-steinfurt.de,48565.0,Kino in Steinfurt,Steinfurt,active,52.1466866,7.3
 gronau@cinetech.de,48599.0,Cinetech - Open Air,Gronau in Westfalen,active,52.2136653,7.018348
 info@kino-coesfeld.de,48653.0,Cinema-Center Coesfeld,Coesfeld,active,51.949409,7.1666045
 info@kino-ahaus.de,48683.0,Cinema-Center Ahaus,Ahaus,active,52.0760826,7.0007465
-information@cinetech.de,48683.0,Cinetech M�nsterland Erlebniskino,Ahaus,active,52.0760826,7.0007465
+information@cinetech.de,48683.0,Cinetech Münsterland Erlebniskino,Ahaus,active,52.0760826,7.0007465
 vreden@cinetech.de,48691.0,Cinetech Vreden,Vreden,active,52.0775184,7.0071338
 maas@billerbeck.de,48727.0,Kommunales Kino Billerbeck,Billerbeck,active,52.0353717,6.8275584
-info@cinema-arthouse.de,49074.0,Cinema-Arthouse,Osnabr�ck,active,51.9731744,7.2844145
-info@filmpassage.de,49074.0,Filmpassage Osnabr�ck,Osnabr�ck,active,52.2773742,8.0473866
-info@hall-of-fame.online,49074.0,HALL OF FAME - Kino de Luxe,Osnabr�ck,active,52.2722813,8.0562493
-lagerhalle@osnanet.de,49074.0,Kino in der Lagerhalle,Osnabr�ck,active,52.2722813,8.0562493
+info@cinema-arthouse.de,49074.0,Cinema-Arthouse,Osnabrück,active,51.9731744,7.2844145
+info@filmpassage.de,49074.0,Filmpassage Osnabrück,Osnabrück,active,52.2773742,8.0473866
+info@hall-of-fame.online,49074.0,HALL OF FAME - Kino de Luxe,Osnabrück,active,52.2722813,8.0562493
+lagerhalle@osnanet.de,49074.0,Kino in der Lagerhalle,Osnabrück,active,52.2722813,8.0562493
 postan@kur-lichtspiele.de,49214.0,Kur-Lichtspiele,Bad Rothenfelde,active,52.2722813,8.0562493
 contact@central-kinos-diepholz.de,49356.0,Central Kinos,Diepholz,active,52.1091632,8.1568568
 info@schauburg-cineworld.de,49377.0,Schauburg Cineworld,Vechta,active,52.7288539,8.2803416
 stuntebeck@capitol-lohne.de,49393.0,Capitol Center Lohne,Lohne in Oldenburg,active,52.7288539,8.2803416
 info@dersakino.de,49401.0,Dersa Kino Damme GmbH,Damme,active,52.668084,8.2394987
-info@apollo-kino.de,49477.0,Apollo-Kino-Center,Ibbenb�ren,active,52.2724636,7.7107568
+info@apollo-kino.de,49477.0,Apollo-Kino-Center,Ibbenbüren,active,52.2724636,7.7107568
 filmtheater@universum-ev.de,49565.0,Universum,Bramsche,active,52.2724636,7.7107568
 johannes@kino-online.com,49577.0,Gloria Kino-Center,Ankum,active,52.4105513,7.9770834
-schauburg@osnanet.de,49610.0,Schauburg,Quakenbr�ck,active,52.6762282,7.9494184
-lilo-servicekino@t-online.de,49624.0,Li-Lo-Lichtspiele L�ningen,L�ningen,active,52.6762282,7.9494184
+schauburg@osnanet.de,49610.0,Schauburg,Quakenbrück,active,52.6762282,7.9494184
+lilo-servicekino@t-online.de,49624.0,Li-Lo-Lichtspiele Löningen,Löningen,active,52.6762282,7.9494184
 info@cinecenter.de,49661.0,Cine-Center,Cloppenburg,active,52.8486485,8.0429881
 info@kino-meppen.de,49716.0,Germania Lichtspiele,Meppen,active,52.69497,7.2919097
 ferienzentrum@schloss-dankern.de,49733.0,Dankern-Kino,Haren an der Ems,active,52.69497,7.2919097
-info@hasetor.de,49740.0,hasetor Kulturkino,Hasel�nne,active,52.6727892,7.4841624
+info@hasetor.de,49740.0,hasetor Kulturkino,Haselünne,active,52.6727892,7.4841624
 info@centralkino-lingen.de,49808.0,Central-Lichtspielhaus,Lingen,bounced,52.5212395,7.3165362
 info@kino-lingen.eu,49808.0,Filmpalast Cine-World,Lingen,active,52.5283302,7.315779
 euromax@euromax-cinemas.de,50171.0,Euromax Cinemas,Kerpen,active,50.874313,6.6893358
 kontakt@capitol-kerpen.de,50171.0,Capitol-Theater,Kerpen,active,50.874313,6.6893358
 mail@usk-elsdorf.de,50189.0,Union-Service Kino,Elsdorf,active,50.9341466,6.5627214
 lindentheater@netcologne.de,50226.0,Linden-Theater,Frechen,active,50.9139702,6.8019915
-info@zoomkino.de,50321.0,Open Air im Rathaus-Innenhof...,Br�hl im Rheinland,active,50.8130958,6.873915
-huerthpark@uci-kinowelt.de,50354.0,UCI H�rth Park,H�rth,active,50.8130958,6.873915
-info@berli-huerth.de,50354.0,Berli-Theater,H�rth,active,50.8742677,6.8120101
-info@cp-lichtspielfreunde-huerth.de,50354.0,CP Lichtspiele,H�rth,active,50.8742677,6.8120101
-info@filmclub813.de,50667.0,Filmclub 813,K�ln,active,50.9361169,6.9413659
-info@filmclub813.de,50667.0,Kino 813 in der BR�CKE,K�ln,active,50.9361169,6.9413659
-rossenbach@museum-ludwig.de,50667.0,Museum Ludwig,K�ln,active,50.9361169,6.9413659
-email@metropolis-koeln.de,50668.0,Metropolis,K�ln,active,50.9511032,6.9556977
-info@filmpalette-koeln.de,50668.0,Filmpalette,K�ln,active,50.9511032,6.9556977
-info@altefeuerwachekoeln.de,50670.0,B�rgerzentrum Alte Feuerwache,K�ln,active,50.9522006,6.9520324
-info@filmhauskino.de,50670.0,Filmhaus Kino,K�ln,bounced,50.9522006,6.9520324
-office@cinedom.de,50670.0,Cinedom,K�ln,active,50.9489821,6.946799
-email@rex-koeln.de,50672.0,"Rex am Ring Lichtspiele""""",K�ln,active,50.9478301,6.9424095
-info@koeln.astor-filmlounge.de,50672.0,Residenz - eine Astor Film Lounge,K�ln,active,50.94,6.9376975
-koeln@cineplex.de,50672.0,Cineplex Filmpalast K�ln,K�ln,active,50.9440044,6.9397029
-filmmaeg@gmail.com,50674.0,Filmclub Akasava,K�ln,active,50.9379264,6.9293807
-jfco@jki.de,50674.0,Japanisches Kulturinstitut,K�ln,active,50.9379264,6.9293807
-kontakt@off-broadway.de,50674.0,OFF Broadway,K�ln,active,50.9346985,6.9235525
-turistarama@web.de,50676.0,TURISTARAMA,K�ln,active,50.9296832,6.9352623
-info@odeon-koeln.de,50678.0,Odeon-Kino,K�ln,active,50.9253077,6.9556257
-service@openairkino.de,50678.0,Globetrotter Open Air Kino,K�ln,bounced,50.9253077,6.9556257
-sozialamt.bhstollwerck@stadt-koeln.de,50678.0,B�rgerhaus Stollwerck,K�ln,bounced,50.925814,6.9630213
-info@northside.jugz.de,50765.0,North Side Kinder- und Jugendeinrichtung,K�ln,active,51.0282607,6.8936521
-office@cinenova.de,50825.0,Cinenova,K�ln,active,51.0282607,6.8936521
-info@juze-weiden.jugz.de,50858.0,Kinder- und Jugendzentrum Weiden,K�ln,active,50.9351187,6.8358345
-kontakt@weisshaus-kino.de,50939.0,Weisshaus Kino,K�ln,active,50.9169285,6.9266589
-info@kulturbunker-muelheim.de,51063.0,Kulturbunker M�lheim,K�ln,active,50.969911,7.0062554
-info@buergerhauskalk.de,51103.0,B�rgerhaus Kalk,K�ln,active,50.9399515,6.9988393
-kontakt@lichtspiele-kalk.de,51103.0,Lichtspiele K�ln-Kalk,K�ln,active,50.9399515,6.9988393
-traegerverein@buergerzentrum-vingst.de,51107.0,B�rgerzentrum Vingst,K�ln,active,50.9313724,7.0203354
-info@glashuette.jugz.de,51143.0,Kinder- und Jugendeinrichtung Glash�tte,K�ln,active,50.8862099,7.0581422
-kontakt-ak-k@autokino-deutschland.de,51149.0,Drive In Autokino Porz,K�ln,active,50.9016224,7.0724679
+info@zoomkino.de,50321.0,Open Air im Rathaus-Innenhof...,Brühl im Rheinland,active,50.8130958,6.873915
+huerthpark@uci-kinowelt.de,50354.0,UCI Hürth Park,Hürth,active,50.8130958,6.873915
+info@berli-huerth.de,50354.0,Berli-Theater,Hürth,active,50.8742677,6.8120101
+info@cp-lichtspielfreunde-huerth.de,50354.0,CP Lichtspiele,Hürth,active,50.8742677,6.8120101
+info@filmclub813.de,50667.0,Filmclub 813 / Kino 813 in der BRÜCKE,Köln,active,50.9361169,6.9413659
+info@filmclub813.de,50667.0,Filmclub 813 / Kino 813 in der BRÜCKE,Köln,active,50.9361169,6.9413659
+rossenbach@museum-ludwig.de,50667.0,Museum Ludwig,Köln,active,50.9361169,6.9413659
+email@metropolis-koeln.de,50668.0,Metropolis,Köln,active,50.9511032,6.9556977
+info@filmpalette-koeln.de,50668.0,Filmpalette,Köln,active,50.9511032,6.9556977
+info@altefeuerwachekoeln.de,50670.0,Bürgerzentrum Alte Feuerwache,Köln,active,50.9522006,6.9520324
+info@filmhauskino.de,50670.0,Filmhaus Kino,Köln,bounced,50.9522006,6.9520324
+office@cinedom.de,50670.0,Cinedom,Köln,active,50.9489821,6.946799
+email@rex-koeln.de,50672.0,"Rex am Ring Lichtspiele""""",Köln,active,50.9478301,6.9424095
+info@koeln.astor-filmlounge.de,50672.0,Residenz - eine Astor Film Lounge,Köln,active,50.94,6.9376975
+koeln@cineplex.de,50672.0,Cineplex Filmpalast Köln,Köln,active,50.9440044,6.9397029
+filmmaeg@gmail.com,50674.0,Filmclub Akasava,Köln,active,50.9379264,6.9293807
+jfco@jki.de,50674.0,Japanisches Kulturinstitut,Köln,active,50.9379264,6.9293807
+kontakt@off-broadway.de,50674.0,OFF Broadway,Köln,active,50.9346985,6.9235525
+turistarama@web.de,50676.0,TURISTARAMA,Köln,active,50.9296832,6.9352623
+info@odeon-koeln.de,50678.0,Odeon-Kino,Köln,active,50.9253077,6.9556257
+service@openairkino.de,50678.0,Globetrotter Open Air Kino,Köln,bounced,50.9253077,6.9556257
+sozialamt.bhstollwerck@stadt-koeln.de,50678.0,Bürgerhaus Stollwerck,Köln,bounced,50.925814,6.9630213
+info@northside.jugz.de,50765.0,North Side Kinder- und Jugendeinrichtung,Köln,active,51.0282607,6.8936521
+office@cinenova.de,50825.0,Cinenova,Köln,active,51.0282607,6.8936521
+info@juze-weiden.jugz.de,50858.0,Kinder- und Jugendzentrum Weiden,Köln,active,50.9351187,6.8358345
+kontakt@weisshaus-kino.de,50939.0,Weisshaus Kino,Köln,active,50.9169285,6.9266589
+info@kulturbunker-muelheim.de,51063.0,Kulturbunker Mülheim,Köln,active,50.969911,7.0062554
+info@buergerhauskalk.de,51103.0,Bürgerhaus Kalk,Köln,active,50.9399515,6.9988393
+kontakt@lichtspiele-kalk.de,51103.0,Lichtspiele Köln-Kalk,Köln,active,50.9399515,6.9988393
+traegerverein@buergerzentrum-vingst.de,51107.0,Bürgerzentrum Vingst,Köln,active,50.9313724,7.0203354
+info@glashuette.jugz.de,51143.0,Kinder- und Jugendeinrichtung Glashütte,Köln,active,50.8862099,7.0581422
+kontakt-ak-k@autokino-deutschland.de,51149.0,Drive In Autokino Porz,Köln,active,50.9016224,7.0724679
 leverkusen@cineplex.de,51373.0,Kinopolis Leverkusen,Leverkusen,active,51.0336647,6.9853533
 ute.mader@vhs-leverkusen.de,51373.0,Kommunales Kino Leverkusen,Leverkusen,bounced,51.0336647,6.9853533
 kino@scala-leverkusen.de,51379.0,Scala Cinema Leverkusen,Leverkusen,active,51.0628764,7.0019989
@@ -734,11 +734,11 @@ info@capitol-aachen.de,52062.0,Capitol,Aachen,bounced,50.7806704,6.0763987
 aachen@cineplex.de,52064.0,Cineplex Aachen,Aachen,deleted (unsubscribed),50.778403,6.0848642
 jt-kohlscheid@herzogenrath.de,52134.0,Cinema Peperoni,Herzogenrath,active,50.7717038,6.0840452
 info@kinocenter-eschweiler.de,52249.0,Primus Kinocenter,Eschweiler,bounced,50.8605259,6.018837
-info@das-lumen.de,52349.0,Das Lumen Filmtheater,D�ren,active,50.817296,6.2596886
-lutznennmann@cinema-entertainment.de,52349.0,Cineworld D�ren,,active,50.8083525,6.4738638
-lutznennmann@cinema-entertainment.de,52349.0,Hall of Fame,,active,50.8083525,6.4738638
-info@kuba-juelich.de,52428.0,KuBa,J�lich,active,50.7985753,6.4572457
-verein@metropolis-filmtheater.de,52428.0,Open Air Kino,J�lich,bounced,50.92273,6.3393997
+info@das-lumen.de,52349.0,Das Lumen Filmtheater,Düren,active,50.817296,6.2596886
+lutznennmann@cinema-entertainment.de,52349.0,Cineworld Düren / Hall of Fame,,active,50.8083525,6.4738638
+lutznennmann@cinema-entertainment.de,52349.0,Cineworld Düren / Hall of Fame,,active,50.8083525,6.4738638
+info@kuba-juelich.de,52428.0,KuBa,Jülich,active,50.7985753,6.4572457
+verein@metropolis-filmtheater.de,52428.0,Open Air Kino,Jülich,bounced,50.92273,6.3393997
 alsdorf@cineplex.de,52477.0,Cineplex Alsdorf,Alsdorf,deleted (unsubscribed),50.8758308,6.1628504
 sebastian.stuertz@cineplex.de,52477.0,Cineplex,Alsdor,active,50.8758308,6.1628504
 sternbonn@cinestar.de,53111.0,Sternlichtspiele Bonn,Bonn,active,50.7355684,7.0998753
@@ -746,10 +746,10 @@ woki@woki.de,53111.0,WOKI,Bonn,active,50.7377707,7.0992532
 forum@bundeskunsthalle.de,53113.0,Forum der Kunst- und Ausstellungshalle,Bonn,bounced,50.7377707,7.0992532
 kino@bonnerkinemathek.de,53113.0,Bonner Sommerkino,Bonn,active,50.7292215,7.0872284
 061@kinopolis.net,53173.0,Kinopolis Bonn-Bad Godesberg,Bonn,active,50.6862839,7.1524781
-hertel.bonn@t-online.de,53225.0,Neue Filmb�hne,Bonn,active,50.7393375,7.118414
+hertel.bonn@t-online.de,53225.0,Neue Filmbühne,Bonn,active,50.7393375,7.118414
 info@drehwerk-1719.de,53343.0,Drehwerk 17|19,Wachtberg,active,50.6133743,7.0530652
 info@kcra.de,53474.0,Kino-Center Rhein-Ahr,Bad Neuenahr-Ahrweiler,active,50.5467058,7.1397142
-info@ring-kino.de,53520.0,ring�kino,N�rburg,active,50.3344674,6.9445215
+info@ring-kino.de,53520.0,ring°kino,Nürburg,active,50.3344674,6.9445215
 info@cine-five.de,53567.0,Cine East,Asbach,active,50.6591358,7.420985
 info@capitol-siegburg.de,53721.0,Capitol,Siegburg,active,50.8028313,7.1984375
 siegburg@cineplex.de,53721.0,Cineplex Siegburg,Siegburg,deleted (unsubscribed),50.7938271,7.201174
@@ -763,31 +763,31 @@ jockel@luke.de,54294.0,Lucky's Luke,Trier,active,49.7516031,6.6216779
 info@mosel-kino.de,54470.0,Mosel Kino,Bernkastel-Kues,active,49.9122155,7.0702048
 k.mathar@stadtmarketing-wittlich.de,54516.0,Open Air im Wittlicher Stadtpark,Wittlich,bounced,49.9878219,6.8795694
 info@kino-daun.de,54550.0,Kinopalast Vulkaneifel,Daun,bounced,50.2002783,6.8244578
-info@eifelfilmbuehne.de,54576.0,Eifel-Film-B�hne,Hillesheim,active,50.292,6.6629897
-info@eifel-kino.de,54595.0,Eifel-Kinocenter,Pr�m,active,50.20802,6.4157297
+info@eifelfilmbuehne.de,54576.0,Eifel-Film-Bühne,Hillesheim,active,50.292,6.6629897
+info@eifel-kino.de,54595.0,Eifel-Kinocenter,Prüm,active,50.20802,6.4157297
 h-riewer@t-online.de,54634.0,Skala-Kinocenter,Bitburg,active,49.9714562,6.5220229
 mail@burg-dudeldorf.de,54647.0,Open Air Kino,Dudeldorf,active,49.97825,6.5995675
 info@programmkinos-mainz.de,55116.0,Palatin,Mainz,active,50.0014991,8.2608733
-kino@cinemayence.de,55116.0,Cin�mayence,Mainz,active,49.998993,8.2637487
+kino@cinemayence.de,55116.0,Cinémayence,Mainz,active,49.998993,8.2637487
 mainz@cinestar.de,55116.0,CineStar - Der Filmpalast,Mainz,active,49.9938415,8.27676
 info@unifilm.de,55128.0,KlubKino,Mainz,active,49.9938385,8.237622
-info@kino-ingelheim.de,55218.0,FT Cadillac,Ingelheim am Rhein,active,49.9746437,8.0533604
-info@kino-ingelheim.de,55218.0,Casablanca,Ingelheim am Rhein,active,49.9746437,8.0533604
-bali-alzey@online.ms,55232.0,Open Air Kino R�merkastell,Alzey,active,49.7462391,8.1088439
+info@kino-ingelheim.de,55218.0,FT Cadillac/Casablanca,Ingelheim am Rhein,active,49.9746437,8.0533604
+info@kino-ingelheim.de,55218.0,FT Cadillac/Casablanca,Ingelheim am Rhein,active,49.9746437,8.0533604
+bali-alzey@online.ms,55232.0,Open Air Kino Römerkastell,Alzey,active,49.7462391,8.1088439
 zentrale@balikino.de,55232.0,Bali,Alzey,active,49.7496361,8.1080734
-info@pro-winzkino.de,55469.0,Pro-Winzkino,Simmern im Hunsr�ck,active,49.9845428,7.5204433
+info@pro-winzkino.de,55469.0,Pro-Winzkino,Simmern im Hunsrück,active,49.9845428,7.5204433
 bad-kreuznach@cineplex.de,55543.0,Cineplex Bad Kreuznach,Bad Kreuznach,active,49.8422537,7.8557412
 hg.sawatzki@cineplex.de,55543.0,Cineplex,Bad Kreuznach,active,49.8422537,7.8557412
 johannes.sawatzki@cineplex.de,55543.0,Cineplex,Bad Kreuznach,active,49.8422537,7.8557412
-guenthersperlich@web.de,55768.0,Mobiles Kino Sperlich,Hoppst�dten-Weiersbach,active,49.6042853,7.1640555
-kontakt@movietown.eu,55768.0,Movietown,Hoppst�dten-Weiersbach,bounced,49.6042153,7.163895
+guenthersperlich@web.de,55768.0,Mobiles Kino Sperlich,Hoppstädten-Weiersbach,active,49.6042853,7.1640555
+kontakt@movietown.eu,55768.0,Movietown,Hoppstädten-Weiersbach,bounced,49.6042153,7.163895
 buero@ftb-klein.de,56068.0,Apollo Koblenz,Koblenz,active,50.3571679,7.5893575
 066@kinopolis.net,56070.0,Kinopolis Koblenz,Koblenz,active,50.3858277,7.5610411
 info@kinolahnstein.de,56112.0,Kino Lahnstein,Lahnstein,active,50.3021542,7.6029411
 info@cinema-boppard.de,56154.0,Cinema,Boppard,active,50.2312802,7.5887418
-ralf-holl@gmx.de,56346.0,Freilichtb�hne Loreley,Sankt Goarshausen,active,50.1424447,7.7286759
-info@kc-n.de,56355.0,Kino-Center Nast�tten,Nast�tten,active,50.1986106,7.8561822
-ralf-holl@kc-n.de,56355.0,Kinocenter Nast�tten,Nast�tten,active,50.1986106,7.8561822
+ralf-holl@gmx.de,56346.0,Freilichtbühne Loreley,Sankt Goarshausen,active,50.1424447,7.7286759
+info@kc-n.de,56355.0,Kino-Center Nastätten,Nastätten,active,50.1986106,7.8561822
+ralf-holl@kc-n.de,56355.0,Kinocenter Nastätten,Nastätten,active,50.1986106,7.8561822
 buero@kino-montabaur.de,56410.0,Capitol Montabaur,Montabaur,active,50.4411677,7.819853
 info@kinoneuwied.de,56564.0,Metropol-Center,Neuwied,active,50.430464,7.4603097
 info@corso-mayen.de,56727.0,Corso Kino,Mayen,active,50.33016,7.2248597
@@ -802,7 +802,7 @@ residenzkino@online.de,57334.0,Residenz-Kino-Center (RKC),Bad Laasphe,active,50.
 info@jac-kino.de,57368.0,Jac Kino Attendorn,Lennestadt,active,51.1256028,7.9091367
 info@lichtspielhaus-lennestadt.de,57368.0,Lichtspielhaus Lennestadt,Lennestadt,active,51.1024017,8.0690985
 info@lichtwerk-kultur.de,57392.0,Lichtwerk,Schmallenberg,active,51.1537686,8.2822966
-info@kino-finnentrop.de,57413.0,Sch�tzenhof-Lichtspiele,Finnentrop,active,51.1487056,7.9091256
+info@kino-finnentrop.de,57413.0,Schützenhof-Lichtspiele,Finnentrop,active,51.1487056,7.9091256
 olpe@cineplex.de,57462.0,Cineplex Olpe,Olpe,active,51.0286164,7.8406656
 k.leicher@cinexx.de,57627.0,Cinexx,Hachenburg,active,50.6645175,7.8170455
 info@wied-scala.de,57638.0,Wied Scala,Neitersen,active,50.6663455,7.5866129
@@ -815,8 +815,8 @@ filminitiative@onikon.de,58313.0,Onikon,Herdecke,active,51.4016279,7.4270357
 basti_boos@yahoo.de,58332.0,Kinocenter Schwelm,Schwelm,active,51.2875934,7.2938296
 info@burg-kino-witten.de,58452.0,Die Burg,Witten,active,51.4381313,7.3348778
 kulturforum@stadt-witten.de,58452.0,Haus Witten,Witten,active,51.4318974,7.3332653
-info@park-theater.de,58509.0,Park-Theater,L�denscheid,active,51.220064,7.6174287
-info@filmpalast-luedenscheid.de,58511.0,Filmpalast,L�denscheid,active,51.219412,7.6393027
+info@park-theater.de,58509.0,Park-Theater,Lüdenscheid,active,51.220064,7.6174287
+info@filmpalast-luedenscheid.de,58511.0,Filmpalast,Lüdenscheid,active,51.219412,7.6393027
 kinomeinerzhagen@aol.com,58540.0,City-Lichtspiele,Meinerzhagen,active,51.1084821,7.6371902
 iserlohn@filmpalast-kino.de,58636.0,Filmpalast Iserlohn,Iserlohn,active,51.3759173,7.6940048
 info@apollo-service-kino.de,58762.0,Apollo Service-Kino,Altena,bounced,51.2970292,7.6756078
@@ -854,23 +854,23 @@ h.wunderer@kinocenter-friedberg.de,61169.0,Open Air Kino im Rathauspark,Friedber
 office@cinepark.net,61184.0,Open Air im Jukuz,Karben,active,50.23824,8.7526797
 info@kino-karben.de,61231.0,Fantasia Filmtheater,Bad Nauheim,active,50.3651538,8.7380707
 kino@kino-anspach.de,61267.0,Saalburg-Lichtspiele,Neu-Anspach,active,50.2941465,8.5087751
-info@bad-homburg-tourismus.de,61348.0,Kurtheater Bad Homburg v. d. H�he,Bad Homburg vor der H�he,active,50.2271615,8.6143791
+info@bad-homburg-tourismus.de,61348.0,Kurtheater Bad Homburg v. d. Höhe,Bad Homburg vor der Höhe,active,50.2271615,8.6143791
 weidinger@kinokoeppern.de,61381.0,Filmtheater Friedrichsdorf,Friedrichsdorf,active,50.2742069,8.6479693
 info@kino-kronberg.de,61476.0,Kronberger Lichtspiele,Kronberg im Taunus,active,50.1794066,8.5076625
 hafenkino@hafen2.net,63067.0,Halle...,Offenbach am Main,active,50.0984572,8.7323418
 info@lederpalast.de,63067.0,Lederpalast,Offenbach am Main,active,50.10333,8.7522297
 info@saalbau-lichtspiele.de,63110.0,Saalbau-Lichtspiele,Rodgau,bounced,50.0225074,8.8838202
 kronenlichtspiele@gmail.com,63110.0,Kronen-Lichtspiele,Rodgau,active,50.0225074,8.8838202
-blahova@dietzenbach.de,63128.0,"Kino D"" im B�rgerhaus""",Dietzenbach,bounced,50.0192511,8.7801259
+blahova@dietzenbach.de,63128.0,"Kino D"" im Bürgerhaus""",Dietzenbach,bounced,50.0192511,8.7801259
 info@lichtburg-langen.de,63225.0,Lichtburg Filmtheater,Langen in Hessen,active,49.9908333,8.6626975
 kontakt-ak-fg@autokino-deutschland.de,63263.0,Kino  1...,Neu-Isenburg,active,50.0569993,8.7411844
 kino@viktoriakino.de,63303.0,Rex-Palast,Dreieich,active,50.0221918,8.6927819
-webmaster@neue-lichtspiele.de,63322.0,Neue Lichtspiele,R�dermark,bounced,49.9773934,8.8010962
+webmaster@neue-lichtspiele.de,63322.0,Neue Lichtspiele,Rödermark,bounced,49.9773934,8.8010962
 076@kinopolis.de,63450.0,Kinopolis Hanau,Hanau,active,50.1295717,8.9128525
 turmpalast-seligenstadt@web.de,63500.0,Turmpalast Kino,Seligenstadt,active,50.0428569,8.9716473
 kinogelnhausen@gmx.de,63571.0,Casino,Gelnhausen,active,50.1984089,9.1431128
-kino-buedingen@t-online.de,63654.0,NOVUM Kino,B�dingen,active,50.2897158,9.1031621
-novum-buedingen@t-online.de,63654.0,NOVUM Kino,B�dingen,active,50.2897158,9.1031621
+kino-buedingen@t-online.de,63654.0,NOVUM Kino,Büdingen,active,50.2897158,9.1031621
+novum-buedingen@t-online.de,63654.0,NOVUM Kino,Büdingen,active,50.2897158,9.1031621
 info@lumos-kino-nidda.de,63667.0,Aero...,Nidda,active,50.4708961,8.9759552
 071@kinopolis.de,63739.0,Kinopolis Aschaffenburg,Aschaffenburg,active,49.9789662,9.1481067
 post@casino-aschaffenburg.de,63739.0,Casino Aschaffenburg,Aschaffenburg,active,49.9746082,9.1465977
@@ -883,49 +883,49 @@ info@kino-pfungstadt.de,64319.0,Saalbau-Lichtspiele,Pfungstadt,active,49.8076543
 filmfest@weiterstadt.de,64331.0,Open Air Filmfest,Weiterstadt,active,49.9073292,8.5650875
 koki@weiterstadt.de,64331.0,Kommunales Kino Weiterstadt,Weiterstadt,active,49.9070235,8.5821531
 info@filmseher.de,64342.0,Filmseher Open Air,Seeheim-Jugenheim,active,49.7616696,8.629448
-info@kino-gross-gerau.de,64521.0,Lichtspielhaus,Gro�-Gerau,active,49.9189657,8.4848805
-kino@kinotreff-lichtblick.de,64546.0,Lichtblick Kinotreff,M�rfelden-Walldorf,bounced,49.9998974,8.5682983
+info@kino-gross-gerau.de,64521.0,Lichtspielhaus,Groß-Gerau,active,49.9189657,8.4848805
+kino@kinotreff-lichtblick.de,64546.0,Lichtblick Kinotreff,Mörfelden-Walldorf,bounced,49.9998974,8.5682983
 bensheim@luxor-kino.de,64625.0,Luxor Filmpalast,Bensheim,deleted (unsubscribed),49.6709195,8.6037443
-info@kino-heppenheim.de,64646.0,Saalbau-Filmtheater,Heppenheim an der Bergstra�e,active,49.639661,8.640686
+info@kino-heppenheim.de,64646.0,Saalbau-Filmtheater,Heppenheim an der Bergstraße,active,49.639661,8.640686
 info@erbacher-lichtspiele.de,64711.0,Erbacher Lichtspiele,Erbach,active,49.6619399,8.9929396
-thorsten@pausar.de,64739.0,Lichtspiele & Cinema,H�chst,active,49.801086,8.9934417
-kino@kaisersaal-lichtspiele.de,64839.0,Kaisersaal-Lichtspiele,M�nster bei Dieburg,active,49.9226855,8.8556402
-caligari@wiesbaden.de,65183.0,Caligari FilmB�hne,Wiesbaden,active,50.0821571,8.2410024
+thorsten@pausar.de,64739.0,Lichtspiele & Cinema,Höchst,active,49.801086,8.9934417
+kino@kaisersaal-lichtspiele.de,64839.0,Kaisersaal-Lichtspiele,Münster bei Dieburg,active,49.9226855,8.8556402
+caligari@wiesbaden.de,65183.0,Caligari FilmBühne,Wiesbaden,active,50.0821571,8.2410024
 info@walhallabambi-kino.de,65183.0,Bambi-Filmtheater,Wiesbaden,bounced,50.0821566,8.2332508
 wiesbaden@cineplex.de,65183.0,Arkaden,Wiesbaden,active,50.0821566,8.2332508
 filmtheater@murnau-stiftung.de,65189.0,Murnau Filmtheater,Wiesbaden,active,50.06618,8.2464897
 info@bilderwerfer.de,65189.0,Open Air Kino,Wiesbaden,active,50.0661795,8.2387381
 info@filme-im-schloss.de,65203.0,Filme im Schloss,Wiesbaden,active,50.0661795,8.2387381
-info@kino-swa.de,65307.0,FT Bambi,Bad Schwalbach,active,50.1446876,8.0734914
-info@kino-swa.de,65307.0,Camera,Bad Schwalbach,active,50.1446857,8.0554185
+info@kino-swa.de,65307.0,FT Bambi/Camera,Bad Schwalbach,active,50.1446876,8.0734914
+info@kino-swa.de,65307.0,FT Bambi/Camera,Bad Schwalbach,active,50.1446857,8.0554185
 kino@linden-theater.de,65366.0,Linden-Theater Geisenheim,Geisenheim,active,49.9841702,7.9644019
 kino@gigu.de,65462.0,"Kommunales Kino Mainspitze Burg-Lichtspiele""""",Ginsheim-Gustavsburg,active,49.996727,8.3190035
 eva.wunderer@t-online.de,65510.0,Taunus-Kinocenter,Idstein,active,50.1466226,8.1978867
 limburg@cineplex.de,65549.0,Cineplex Limburg,Limburg an der Lahn,active,50.3888531,8.0583828
-valentina.janzen@cineplex.de,65549.0,FTB Martin,Limburg,active,50.388853,8.0583721
-valentina.janzen@cineplex.de,65549.0,FTB Martin,Suhl,active,50.6243198,10.5323406
-valentina.janzen@cineplex.de,65549.0,FTB Martin,Bad Hersfeld,active,50.8652938,9.7027504
-info@kreml-kulturhaus.de,65623.0,Programmkino Kreml,Hahnst�tten,active,50.2895383,8.0609578
+valentina.janzen@cineplex.de,65549.0,FTB Martin,Limburg / Suhl / Bad Hersfeld,active,50.388853,8.0583721
+valentina.janzen@cineplex.de,65549.0,FTB Martin,Limburg / Suhl / Bad Hersfeld,active,50.6243198,10.5323406
+valentina.janzen@cineplex.de,65549.0,FTB Martin,Limburg / Suhl / Bad Hersfeld,active,50.8652938,9.7027504
+info@kreml-kulturhaus.de,65623.0,Programmkino Kreml,Hahnstätten,active,50.2895383,8.0609578
 info@kino-hofheim.de,65719.0,Movies Kino Hofheim,Hofheim am Taunus,active,50.0858471,8.4450383
 info@volksbildungswerk-eschborn.de,65760.0,eschborn k,Eschborn,active,50.1421746,8.5655259
 info@kino-kelkheim.de,65779.0,Open Air,Kelkheim,active,50.1421453,8.4855231
 info@kultkinobar.de,65812.0,KULT Kinobar,Bad Soden am Taunus,active,50.1447502,8.4978412
 031@kinopolis.net,65843.0,Kinopolis Main-Taunus,Sulzbach am Taunus,active,50.1209152,8.5216436
 info@filmtheater-valentin.de,65929.0,Filmtheater Valentin,Frankfurt am Main,active,50.105818,8.5386701
-klaus-peter.roth.vhs@stadt-frankfurt.de,65929.0,Filmforum H�chst,Frankfurt am Main,active,50.105818,8.5386701
+klaus-peter.roth.vhs@stadt-frankfurt.de,65929.0,Filmforum Höchst,Frankfurt am Main,active,50.105818,8.5386701
 frankfurt3@cinestar.de,65933.0,CineStar - Der Filmpalast,Frankfurt am Main,active,50.0989997,8.5867409
-filmhaus@saarbruecken.de,66111.0,Filmhaus,Saarbr�cken,active,49.2319319,6.9972597
-info@camerazwo.de,66111.0,camerazwo,Saarbr�cken,active,49.2319319,6.9972597
-info@citykinos.de,66111.0,Passage,Saarbr�cken,bounced,49.2361069,6.9917927
-info@kinoachteinhalb.de,66111.0,Kino achteinhalb,Saarbr�cken,active,49.23761,6.9894383
-saarbruecken@cinestar.de,66115.0,CineStar - Der Filmpalast,Saarbr�cken,active,49.2357338,6.9984117
-unifilm@asta.uni-saarland.de,66123.0,Unifilm,Saarbr�cken,active,49.2476649,6.9817717
+filmhaus@saarbruecken.de,66111.0,Filmhaus,Saarbrücken,active,49.2319319,6.9972597
+info@camerazwo.de,66111.0,camerazwo,Saarbrücken,active,49.2319319,6.9972597
+info@citykinos.de,66111.0,Passage,Saarbrücken,bounced,49.2361069,6.9917927
+info@kinoachteinhalb.de,66111.0,Kino achteinhalb,Saarbrücken,active,49.23761,6.9894383
+saarbruecken@cinestar.de,66115.0,CineStar - Der Filmpalast,Saarbrücken,active,49.2357338,6.9984117
+unifilm@asta.uni-saarland.de,66123.0,Unifilm,Saarbrücken,active,49.2476649,6.9817717
 info@kino-heusweiler.de,66265.0,Filmtheater,Heusweiler,active,49.33898,6.9225297
 info@kino-bous.de,66359.0,Thalia-Lichtspiele,Bous,active,49.2759897,6.7915846
 c.perlgrau@kino-igb.de,66386.0,Neues Regina Kinocenter,Sankt Ingbert,active,49.2788758,7.1118252
 kinowerkstatt@gmx.de,66386.0,Kinowerkstatt,Sankt Ingbert,active,49.2762806,7.1171015
 kontakt@cinemas-group.de,66424.0,Eden Cinehouse,Homburg,active,49.3183544,7.3355722
-cinema_europa@t-online.de,66482.0,Cinema Europa,Zweibr�cken,active,49.2492887,7.3471555
+cinema_europa@t-online.de,66482.0,Cinema Europa,Zweibrücken,active,49.2492887,7.3471555
 illingen@my-movie-world.de,66557.0,Union Theater,Illingen an der Saar,active,49.379499,7.0454037
 stwendel@my-movie-world.de,66606.0,Neues Theater,Sankt Wendel,active,49.4691566,7.1673104
 info@autokino-saarland.de,66620.0,Autokino Saarland,Nonnweiler,active,49.5813556,6.979093
@@ -938,7 +938,7 @@ office@europa-palast.de.com,66763.0,Europa-Dillingen,Dillingen an der Saar,bounc
 lebach@my-movie-world.de,66822.0,City-Filmstudio,Lebach,active,49.3671708,6.6929177
 hpleidinger1@outlook.de,66839.0,Gloria Kino,Schmelz,active,49.4439815,6.8486673
 info@schmelzer-lichtspiele.de,66839.0,Schmelzer Lichtspiele,Schmelz,active,49.4439815,6.8486673
-moviemagic@broadwaykino.com,66877.0,Broadway Kino Merkurstra�e,Ramstein-Miesenbach,active,49.4205527,7.5618605
+moviemagic@broadwaykino.com,66877.0,Broadway Kino Merkurstraße,Ramstein-Miesenbach,active,49.4205527,7.5618605
 info@kino-ps.de,66953.0,Walhalla - Kinocenter,Pirmasens,active,49.1940739,7.6074338
 info@wasgau-theater.de,66996.0,Wasgau-Theater,Fischbach bei Dahn,deleted (unsubscribed),49.0695093,7.6922439
 ludwigshafen@cinestar.de,67061.0,CineStar - Der Filmpalast,Ludwigshafen,active,49.4783126,8.452142
@@ -946,11 +946,11 @@ capitol@online.ms,67105.0,Capitol Lichtspiele...,Schifferstadt,active,49.4057306
 info@rex-schifferstadt.de,67105.0,Rex Kino-Center,Schifferstadt,active,49.3886528,8.3705524
 kontakt@capitol-limburgerhof.com,67117.0,Capitol LichtspielTheater Limburgerhof,Limburgerhof,active,49.4228462,8.3901416
 info@lux-kinos.de,67227.0,Lux Kinos,Frankenthal in der Pfalz,active,49.5361677,8.3526048
-o.lebert@clc-kinobetriebe.de,67269.0,Filmwelt Gr�nstadt,Gr�nstadt,active,49.5550948,8.1706993
+o.lebert@clc-kinobetriebe.de,67269.0,Filmwelt Grünstadt,Grünstadt,active,49.5550948,8.1706993
 immel@theaterhaus-speyer.de,67346.0,Theaterhaus Speyer,Speyer,active,49.33761,8.4189697
 speyer@technik-museum.de,67346.0,IMAX Dome Filmtheater,Speyer,active,49.3120567,8.4428219
-info@roxy.de,67433.0,Open Air Kino,Neustadt an der Weinstra�e,active,49.3535965,8.1399201
-neustadt@cineplex.de,67433.0,Cineplex Neustadt,Neustadt an der Weinstra�e,active,49.3400792,8.1674597
+info@roxy.de,67433.0,Open Air Kino,Neustadt an der Weinstraße,active,49.3535965,8.1399201
+neustadt@cineplex.de,67433.0,Cineplex Neustadt,Neustadt an der Weinstraße,active,49.3400792,8.1674597
 info@kino-worms.de,67547.0,Kinowelt Worms,Worms,active,49.6337332,8.3559502
 cu@centralcitycinemas.com,67655.0,Central City Cinemas,Kaiserslautern,active,49.4437657,7.7685516
 kaiserslautern@uci-kinowelt.de,67657.0,UCI Kaiserslautern,Kaiserslautern,active,49.456641,7.7978592
@@ -968,18 +968,18 @@ heidelberg@luxor-kino.de,69115.0,Luxor-Filmpalast Heidelberg,Heidelberg,active,4
 medienforum@gmx.de,69117.0,Karlstor-Kino,Heidelberg,active,49.3868406,8.6785284
 info@gloria-kamera-kinos.de,69120.0,Die Kamera,Heidelberg,active,49.4154966,8.6897237
 max.hilker@augustinum.de,69126.0,Cinema Augustinum,Heidelberg,active,49.3630742,8.699217
-dispo@luxor-kino.de,69160.0,Luxor Kinos,Walldorf,active,49.2926483,8.6615222
-dispo@luxor-kino.de,69160.0,Luxor Kinos,Schwetzingen,active,49.3825002,8.5741469
-dispo@luxor-kino.de,69160.0,Luxor Kinos,Heidelberg,active,49.4054781,8.6640904
-dispo@luxor-kino.de,69160.0,Luxor Kinos,Bensheim,active,49.6709195,8.6037443
-dispo@luxor-kino.de,69160.0,Luxor Kinos,Nidderau,active,50.2289317,8.8702926
+dispo@luxor-kino.de,69160.0,Luxor Kinos,"Walldorf, Schwetzingen, Heidelberg, Bensheim, Nidderau",active,49.2926483,8.6615222
+dispo@luxor-kino.de,69160.0,Luxor Kinos,"Walldorf, Schwetzingen, Heidelberg, Bensheim, Nidderau",active,49.3825002,8.5741469
+dispo@luxor-kino.de,69160.0,Luxor Kinos,"Walldorf, Schwetzingen, Heidelberg, Bensheim, Nidderau",active,49.4054781,8.6640904
+dispo@luxor-kino.de,69160.0,Luxor Kinos,"Walldorf, Schwetzingen, Heidelberg, Bensheim, Nidderau",active,49.6709195,8.6037443
+dispo@luxor-kino.de,69160.0,Luxor Kinos,"Walldorf, Schwetzingen, Heidelberg, Bensheim, Nidderau",active,50.2289317,8.8702926
 walldorf@luxor-kino.de,69190.0,LUXOR-Filmpalast,Walldorf,deleted (unsubscribed),49.2926483,8.6615222
 zentrale@kinoweinheim.de,69469.0,Modernes Theater,Weinheim,active,49.5495735,8.6693685
 kino@olympia-leutershausen.de,69493.0,Kommunales Olympia Kino,Hirschberg,active,49.4994466,8.6583888
 info@brennessel-kino.de,69502.0,Brennessel Kino,Hemsbach,active,49.5931171,8.6538261
 j.bieler@brennessel-kino.de,69502.0,Brennessel Programmkino,Hemsbach,bounced,49.5931171,8.6538261
 info@innenstadtkinos.de,70173.0,Metropol,Stuttgart,active,48.7801778,9.175154
-info@treffpunkt-rotebuehlplatz.de,70173.0,Treffpunkt Roteb�hlplatz,Stuttgart,deleted (unsubscribed),48.7801778,9.175154
+info@treffpunkt-rotebuehlplatz.de,70173.0,Treffpunkt Rotebühlplatz,Stuttgart,deleted (unsubscribed),48.7801778,9.175154
 auskunft@kinomobil-bw.de,70174.0,Kinomobil,Stuttgart,active,48.7750311,9.1684888
 bollwerk@arthaus-kino.de,70176.0,Atelier am Bollwerk,Stuttgart,active,48.7767141,9.1658686
 delphi@arthaus-kino.de,70178.0,Delphi Arthaus Kino,Stuttgart,active,48.7766428,9.1657457
@@ -990,7 +990,7 @@ fuhrmann@corso-kino.com,70563.0,Corso Cinema International,Stuttgart,active,48.7
 orfeo@kinokult.de,70736.0,Orfeo,Fellbach,active,48.83394,9.2631797
 capitolkornwestheim@yahoo.com,70806.0,Capitol Lichtspiele Kornwestheim,Kornwestheim,active,48.8635601,9.1787665
 kontakt-ak-s@autokino-deutschland.de,70806.0,Kino  1...,Kornwestheim,active,48.8635601,9.1787665
-postkasten@kinobb.de,71032.0,Metropol am Postplatz,B�blingen,active,48.685358,9.0126407
+postkasten@kinobb.de,71032.0,Metropol am Postplatz,Böblingen,active,48.685358,9.0126407
 info@kinomacher.de,71083.0,Open Air Kino,Herrenberg,active,48.597364,8.8708193
 koki@herrenberg.de,71083.0,Kommunales Kino,Herrenberg,active,48.59412,8.8709295
 leo-info@traumpalast.de,71229.0,Traumpalast,Leonberg,active,48.7824529,9.0135319
@@ -1004,11 +1004,11 @@ info@kinokult.de,71638.0,Caligari,Ludwigsburg,active,48.8936151,9.188064
 kino@central-union.de,71638.0,Central-Theater,Ludwigsburg,active,48.8936151,9.188064
 kontakt@openairkino-ludwigsburg.de,71638.0,Ludwigsburger Sommernachts-Open-Air-Kino,Ludwigsburg,active,48.8957253,9.185543
 gerhard.goebelt@t-online.de,71679.0,MoKi Ludwigsburg,Asperg,active,48.9015795,9.1455801
-d.betz@arsenalkinos.de,72070.0,Arsenal,T�bingen,active,48.9015795,9.1455801
-info@tuebinger-kinos.de,72070.0,Museum-Lichtspiele,T�bingen,active,48.5228424,9.0512498
-info@bewegtebilder.de,72074.0,Sommernachtskino,T�bingen,active,48.5223226,9.054911
+d.betz@arsenalkinos.de,72070.0,Arsenal,Tübingen,active,48.9015795,9.1455801
+info@tuebinger-kinos.de,72070.0,Museum-Lichtspiele,Tübingen,active,48.5228424,9.0512498
+info@bewegtebilder.de,72074.0,Sommernachtskino,Tübingen,active,48.5223226,9.054911
 kino@kinowaldhorn.de,72108.0,Kino im Waldhorn,Rottenburg am Neckar,active,48.47789,8.9317527
-stef.schlegel@t-online.de,72116.0,Lichtspiele M�ssingen,M�ssingen,active,48.410425,9.0607753
+stef.schlegel@t-online.de,72116.0,Lichtspiele Mössingen,Mössingen,active,48.410425,9.0607753
 info@krone-lichtspiele.de,72202.0,Krone-Lichtspiele,Nagold,bounced,48.548667,8.7185873
 info@centralkino-fds.de,72250.0,Central Kino,Freudenstadt,active,48.4650848,8.4119142
 benedikt.petschl@subiaco.de,72275.0,Subiaco Kinos,Alpirsbach,deleted (unsubscribed),48.3459874,8.4012898
@@ -1018,12 +1018,12 @@ info@zollernalb-kinos.de,72458.0,Capitol Filmpalast,Albstadt,active,48.2130508,9
 buergerbuero@gammertingen.de,72501.0,Open Air,Gammertingen,active,48.24884,9.2124397
 info@luna-metzingen.de,72555.0,Luna-Filmtheater,Metzingen,active,48.5383897,9.286834
 info@forum22.de,72574.0,Bad Uracher Open-Air-Kino,Bad Urach,active,48.4924241,9.3947232
-info@openairkino-nuertingen.de,72622.0,Open Air Kino bei der Vers�hnungskirche,N�rtingen,active,48.6144242,9.352256
-nt-info@traumpalast.de,72622.0,Traumpalast,N�rtingen,active,48.6267622,9.3383851
+info@openairkino-nuertingen.de,72622.0,Open Air Kino bei der Versöhnungskirche,Nürtingen,active,48.6144242,9.352256
+nt-info@traumpalast.de,72622.0,Traumpalast,Nürtingen,active,48.6267622,9.3383851
 kino@kamino-reutlingen.de,72764.0,KAMINO,Reutlingen,active,48.4874458,9.2175239
 michael.hoeck@cineplex.de,72764.0,Cineplex Planie,Reutlingen,active,48.4874458,9.2175239
 reutlingen@cineplex.de,72764.0,Cineplex Planie,Reutlingen,active,48.4909425,9.2141973
-info@staufen-movieplex.de,73033.0,Staufen-Movieplex,G�ppingen,active,48.7025581,9.6541859
+info@staufen-movieplex.de,73033.0,Staufen-Movieplex,Göppingen,active,48.7025581,9.6541859
 info@kino-eislingen.de,73054.0,Schlosstheater in der Mensa,Eislingen,bounced,48.7025581,9.6541859
 kontakt@kino-plochingen.de,73207.0,Union-Theater,Plochingen,active,48.7111693,9.4119908
 info@stadtkino.tv,73230.0,Stadtkino Kirchheim,Kirchheim unter Teck,active,48.649102,9.4456712
@@ -1032,11 +1032,11 @@ info@gloria-geislingen.de,73312.0,Gloria-Kino-Center,Geislingen an der Steige,ac
 info@kino-aa.de,73430.0,Kinopark,Aalen,active,48.8472334,10.0924421
 info@kino-am-kocher.de,73430.0,Kino am Kocher,Aalen,active,48.8472334,10.0924421
 info@regina2000.de,73479.0,Regina 2000,Ellwangen an der Jagst,bounced,48.964193,10.1303844
-gd-info@traumpalast.de,73525.0,Traumpalast,Schw�bisch Gm�nd,active,48.7999784,9.791107
-walter.deininger@turm-theater.de,73525.0,Kino Brazil,Schw�bisch Gm�nd,bounced,48.7999784,9.791107
+gd-info@traumpalast.de,73525.0,Traumpalast,Schwäbisch Gmünd,active,48.7999784,9.791107
+walter.deininger@turm-theater.de,73525.0,Kino Brazil,Schwäbisch Gmünd,bounced,48.7999784,9.791107
 info@club-manufaktur.de,73614.0,Kleine Fluchten,Schorndorf,active,48.80769,9.5354995
 sf-info@traumpalast.de,73614.0,Traumpalast,Schorndorf,active,48.80769,9.5354995
-rudersberg@filmtheaterbetriebe.de,73635.0,L�wen-Lichtspiele,Rudersberg,active,48.8866871,9.5291129
+rudersberg@filmtheaterbetriebe.de,73635.0,Löwen-Lichtspiele,Rudersberg,active,48.8866871,9.5291129
 info@filmcasinowelzheim.de,73642.0,Film-Casino,Welzheim,bounced,48.87431,9.6336297
 es-info@traumpalast.de,73728.0,Traumpalast,Esslingen am Neckar,active,48.7408943,9.2961362
 info@koki-es.de,73728.0,Kino auf der Burg,Esslingen am Neckar,active,48.7450173,9.3068877
@@ -1149,8 +1149,8 @@ kino@isabella.li,80799.0,Studio Isabella,München,active,48.1532868,11.5751168
 leopoldabc.kinos@t-online.de,80803.0,ABC-Kino,München,bounced,48.1552778,11.5676975
 office@kinoamolympiasee.de,80809.0,Kino am Olympiasee.,München,active,48.161827,11.582967
 redaktion@kultur-forum2.de,80809.0,Kino im forum2,München,active,48.1815185,11.5489047
-e.motion@kino-mond-sterne.de,81377.0,Kino,München,active,48.1815185,11.5489047
-e.motion@kino-mond-sterne.de,81377.0,Mond & Sterne,München,active,48.1815111,11.5101889
+e.motion@kino-mond-sterne.de,81377.0,"Kino, Mond & Sterne",München,active,48.1815185,11.5489047
+e.motion@kino-mond-sterne.de,81377.0,"Kino, Mond & Sterne",München,active,48.1815111,11.5101889
 info@kinosolln.de,81479.0,Kino Solln,München,active,48.08082,11.5238097
 kundenservice@cincinnati-muenchen.de,81549.0,Cincinnati,München,active,48.0925209,11.5946786
 museum@movietown.eu,81669.0,Museum-Lichtspiele,München,active,48.1309686,11.5848336
@@ -1216,12 +1216,12 @@ kino@cineradoplex.de,85276.0,CineradoPlex,Pfaffenhofen an der Ilm,active,48.5234
 info@amperlichtspiele.de,85283.0,Kino  1...,Wolnzach,active,48.7733057,11.3862036
 info@rosenhof-lichtspiele.de,85368.0,Rosenhof-Lichtspiele,Moosburg an der Isar,active,48.4663611,11.9332796
 theaterleitung-neufahrn@cineplex.de,85375.0,Cineplex Neufahrn,Neufahrn bei Freising,active,48.3295268,11.6893825
-julia.wahl@cineplex.de,85435.0,Cineplex,Erding,active,48.3059543,11.9132804
-julia.wahl@cineplex.de,85435.0,Cineplex,Neufahrn,active,48.3295268,11.6893825
-julia.wahl@cineplex.de,85435.0,Cineplex,Vilsbiburg,active,48.4497227,12.3361283
+julia.wahl@cineplex.de,85435.0,Cineplex,"Erding, Neufahrn, Vilsbiburg",active,48.3059543,11.9132804
+julia.wahl@cineplex.de,85435.0,Cineplex,"Erding, Neufahrn, Vilsbiburg",active,48.3295268,11.6893825
+julia.wahl@cineplex.de,85435.0,Cineplex,"Erding, Neufahrn, Vilsbiburg",active,48.4497227,12.3361283
 theaterleitung-erding@cineplex.de,85435.0,CINEPLEX Lichtspielberg Erding,Erding,active,48.3059052,11.9132224
-info@kino-ottobrunn.de,85521.0,FT Smoky,Ottobrunn,active,48.0610489,11.6516168
-info@kino-ottobrunn.de,85521.0,Movie,Ottobrunn,active,48.0610452,11.6515309
+info@kino-ottobrunn.de,85521.0,FT Smoky/Movie,Ottobrunn,active,48.0610489,11.6516168
+info@kino-ottobrunn.de,85521.0,FT Smoky/Movie,Ottobrunn,active,48.0610452,11.6515309
 info@kino-haar.de,85540.0,Die Haarer Kinos,Haar,active,48.1083077,11.720217
 info@alteskino.de,85560.0,Kino im Alten Kino,Ebersberg,active,48.0783451,11.9654217
 contact@capitol-grafing.de,85567.0,Capitol Filmtheater,Grafing bei München,active,48.0479846,11.9632569
@@ -1303,9 +1303,9 @@ lichtspiele_grosshabersdorf@yahoo.de,90613.0,Lichtspiele,Großhabersdorf,active,
 fuerth@cineplex.de,90762.0,Cineplex Fürth,Fürth,active,49.469673,10.9910257
 info@mobileskino.de,90762.0,Freilichtbühne im Stadtpark Fürth,Fürth,active,49.4733653,10.9940673
 kino@uferpalast.de,90762.0,Ufer-Palast,Fürth,active,49.4805092,10.9799838
-mail@babylon-kino-fuerth.de,90762.0,Kiezkinotour Babylon,Fürth,active,49.4763467,10.9830401
-mail@babylon-kino-fuerth.de,90762.0,Open Air,Fürth,active,49.4763465,10.9830187
-mail@babylon-kino-fuerth.de,90762.0,Indoor,Fürth,active,49.4763446,10.9675153
+mail@babylon-kino-fuerth.de,90762.0,Kiezkinotour Babylon/Open Air/Indoor,Fürth,active,49.4763467,10.9830401
+mail@babylon-kino-fuerth.de,90762.0,Kiezkinotour Babylon/Open Air/Indoor,Fürth,active,49.4763465,10.9830187
+mail@babylon-kino-fuerth.de,90762.0,Kiezkinotour Babylon/Open Air/Indoor,Fürth,active,49.4763446,10.9675153
 erlangen@cinestar.de,91052.0,CineStar - Der Filmpalast,Erlangen,active,49.5919394,11.0028767
 info@lamm-lichtspiele.de,91054.0,Lamm Lichtspiele,Erlangen,active,49.6011541,11.0003602
 kino@e-werk.de,91054.0,E-Werk-Kino...,Erlangen,active,49.6007277,10.9990461
@@ -1371,8 +1371,8 @@ info@kintopp-online.de,96142.0,Kintopp,Hollfeld,active,49.9351249,11.2863493
 info@neuefilmbuehne.de,96215.0,Neue Filmbühne,Lichtenfels,active,50.1450713,11.0590997
 info@open-air-bad-staffelstein.de,96231.0,Open Air Kino,Bad Staffelstein,bounced,50.145042,10.9790969
 kontakt@filmburg-kronach.de,96317.0,Filmburg Kronach,Kronach,active,50.145042,10.9790969
-info@fraenkischerkinosommer.de,96450.0,Coburger Kinosommer,Coburg,active,50.2643018,10.9601837
-info@fraenkischerkinosommer.de,96450.0,Rosengarten,Coburg,active,50.2643018,10.9601837
+info@fraenkischerkinosommer.de,96450.0,Coburger Kinosommer/Rosengarten,Coburg,active,50.2643018,10.9601837
+info@fraenkischerkinosommer.de,96450.0,Coburger Kinosommer/Rosengarten,Coburg,active,50.2643018,10.9601837
 info@utopolis-coburg.com,96450.0,Utopolis,Coburg,active,50.2633657,10.9649974
 info@sa-se.de,96482.0,Ahorn Kinosommer,Ahorn,active,50.235388,10.9409627
 info@kinosonneberg.de,96515.0,Kammer-Lichtspiele,Sonneberg,active,50.359041,11.1676062
@@ -1422,62 +1422,62 @@ coordination@cdac.lu,,,Luxemburg,active,51.056239,5.1626482
 daveschroeder@cinestar.de,,Centrale Cinestar,,active,,
 factures@cdac.lu,,,,active,,
 freund.g@uci-kinowelt.de,,Filmbooker UCI Deutschland,,active,,
-freymuth.schultz@cineplex.de,,Cineplexe,Elmshorn,active,,
-freymuth.schultz@cineplex.de,,Cineplexe,Niebüll,active,,
-freymuth.schultz@cineplex.de,,Cineplexe,Eutin,active,,
-horst.martin@cineplex.de,,Cineplexe Limburg,Bad Hersfeld,active,,
-horst.martin@cineplex.de,,Cineplexe Limburg,Eschwege,active,,
-horst.martin@cineplex.de,,Cineplexe Limburg,Eisenach,active,,
-horst.martin@cineplex.de,,Cineplexe Limburg,Gotha,active,,
-horst.martin@cineplex.de,,Suhl,Bad Hersfeld,active,,
-horst.martin@cineplex.de,,Suhl,Eschwege,active,,
-horst.martin@cineplex.de,,Suhl,Eisenach,active,,
-horst.martin@cineplex.de,,Suhl,Gotha,active,,
-horst.martin@cineplex.de,,Naumburg,Bad Hersfeld,active,,
-horst.martin@cineplex.de,,Naumburg,Eschwege,active,,
-horst.martin@cineplex.de,,Naumburg,Eisenach,active,,
-horst.martin@cineplex.de,,Naumburg,Gotha,active,,
-horst.martin@cineplex.de,,,Bad Hersfeld,active,,
-horst.martin@cineplex.de,,,Eschwege,active,,
-horst.martin@cineplex.de,,,Eisenach,active,,
-horst.martin@cineplex.de,,,Gotha,active,,
+freymuth.schultz@cineplex.de,,Cineplexe,"Elmshorn, Niebüll, Eutin",active,,
+freymuth.schultz@cineplex.de,,Cineplexe,"Elmshorn, Niebüll, Eutin",active,,
+freymuth.schultz@cineplex.de,,Cineplexe,"Elmshorn, Niebüll, Eutin",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
+horst.martin@cineplex.de,,"Cineplexe Limburg, Suhl, Naumburg,","Bad Hersfeld, Eschwege, Eisenach, Gotha",active,,
 jay@moviebiz.ch,,,,active,,
 kai.tirschmann@koenigfilmdispo.de,,Königfilm Dispo,,active,,
 kinokatsdorf@speed.at,,LICHTSPIELE KATSDORF,Katsdorf,active,,
 kowalewski@kino-tg.ch,,,,active,,
-marcel.goeken@cineplex.de,,Cineplexe,Amberg,active,,
-marcel.goeken@cineplex.de,,Cineplexe,Bayreuth,active,,
-marcel.goeken@cineplex.de,,Cineplexe,Neumarkt,active,,
-marcel.goeken@cineplex.de,,Cineplexe,Rudolstadt,active,,
+marcel.goeken@cineplex.de,,Cineplexe,"Amberg, Bayreuth, Neumarkt, Rudolstadt",active,,
+marcel.goeken@cineplex.de,,Cineplexe,"Amberg, Bayreuth, Neumarkt, Rudolstadt",active,,
+marcel.goeken@cineplex.de,,Cineplexe,"Amberg, Bayreuth, Neumarkt, Rudolstadt",active,,
+marcel.goeken@cineplex.de,,Cineplexe,"Amberg, Bayreuth, Neumarkt, Rudolstadt",active,,
 matthias.lange@cinemaxx.com,,Zenrale Dispo Cinemaxx,,active,,
 mfuss@kinopolis.de,,Kinopolis,,active,,
-michael.rinaldi@cineplex.de,,Cineplexe,Bayreuth,active,,
-michael.rinaldi@cineplex.de,,Cineplexe,Kulmbach,active,,
-michael.rinaldi@cineplex.de,,Cineplexe,Neumarkt,active,,
-michael.rinaldi@cineplex.de,,Cineplexe,Rudolstadt,active,,
-michael.rinaldi@cineplex.de,,Cineplexe,Saalfeld,active,,
-mirko.riks@cineplex.de,,Cineplexe,Aichach,active,,
-mirko.riks@cineplex.de,,Cineplexe,Amberg,active,,
-mirko.riks@cineplex.de,,Cineplexe,Fürth,active,,
-mirko.riks@cineplex.de,,Cineplexe,Germering,active,,
-mirko.riks@cineplex.de,,Cineplexe,Königsbrunn,active,,
-mirko.riks@cineplex.de,,Cineplexe,Leipzig,active,,
-mirko.riks@cineplex.de,,Cineplexe,Meitingen,active,,
-mirko.riks@cineplex.de,,Cineplexe,Memmingen und Penzing,active,,
+michael.rinaldi@cineplex.de,,Cineplexe,"Bayreuth, Kulmbach, Neumarkt, Rudolstadt, Saalfeld",active,,
+michael.rinaldi@cineplex.de,,Cineplexe,"Bayreuth, Kulmbach, Neumarkt, Rudolstadt, Saalfeld",active,,
+michael.rinaldi@cineplex.de,,Cineplexe,"Bayreuth, Kulmbach, Neumarkt, Rudolstadt, Saalfeld",active,,
+michael.rinaldi@cineplex.de,,Cineplexe,"Bayreuth, Kulmbach, Neumarkt, Rudolstadt, Saalfeld",active,,
+michael.rinaldi@cineplex.de,,Cineplexe,"Bayreuth, Kulmbach, Neumarkt, Rudolstadt, Saalfeld",active,,
+mirko.riks@cineplex.de,,Cineplexe,"Aichach, Amberg, Fürth, Germering, Königsbrunn, Leipzig, Meitingen, Memmingen und Penzing",active,,
+mirko.riks@cineplex.de,,Cineplexe,"Aichach, Amberg, Fürth, Germering, Königsbrunn, Leipzig, Meitingen, Memmingen und Penzing",active,,
+mirko.riks@cineplex.de,,Cineplexe,"Aichach, Amberg, Fürth, Germering, Königsbrunn, Leipzig, Meitingen, Memmingen und Penzing",active,,
+mirko.riks@cineplex.de,,Cineplexe,"Aichach, Amberg, Fürth, Germering, Königsbrunn, Leipzig, Meitingen, Memmingen und Penzing",active,,
+mirko.riks@cineplex.de,,Cineplexe,"Aichach, Amberg, Fürth, Germering, Königsbrunn, Leipzig, Meitingen, Memmingen und Penzing",active,,
+mirko.riks@cineplex.de,,Cineplexe,"Aichach, Amberg, Fürth, Germering, Königsbrunn, Leipzig, Meitingen, Memmingen und Penzing",active,,
+mirko.riks@cineplex.de,,Cineplexe,"Aichach, Amberg, Fürth, Germering, Königsbrunn, Leipzig, Meitingen, Memmingen und Penzing",active,,
+mirko.riks@cineplex.de,,Cineplexe,"Aichach, Amberg, Fürth, Germering, Königsbrunn, Leipzig, Meitingen, Memmingen und Penzing",active,,
 philipp.leitzmann@koenigfilmdispo.de,,Königfilm Dispo,,active,,
-robert.huttenlocher@cineplex.de,,Cineplex,Bruchsal,deleted,,
-robert.huttenlocher@cineplex.de,,Cineplex,Friedrichshafen,deleted,,
-robert.huttenlocher@cineplex.de,,Cineplex,Mannheim,deleted,,
-robert.huttenlocher@cineplex.de,,Cineplex,Neustadt,deleted,,
-robert.huttenlocher@cineplex.de,,Cineplex,Singen,deleted,,
-robert.huttenlocher@ftb-spickert.de,,Cineplexe,Bruchsal,active,,
-robert.huttenlocher@ftb-spickert.de,,Cineplexe,Mannheim,active,,
-robert.huttenlocher@ftb-spickert.de,,Cineplexe,Friedrichshafen,active,,
-robert.huttenlocher@ftb-spickert.de,,Cineplexe,Singen,active,,
-robert.huttenlocher@ftb-spickert.de,,Cineplexe,Neustadt,active,,
+robert.huttenlocher@cineplex.de,,Cineplex,Bruchsal /Friedrichshafen / Mannheim / Neustadt / Singen,deleted,,
+robert.huttenlocher@cineplex.de,,Cineplex,Bruchsal /Friedrichshafen / Mannheim / Neustadt / Singen,deleted,,
+robert.huttenlocher@cineplex.de,,Cineplex,Bruchsal /Friedrichshafen / Mannheim / Neustadt / Singen,deleted,,
+robert.huttenlocher@cineplex.de,,Cineplex,Bruchsal /Friedrichshafen / Mannheim / Neustadt / Singen,deleted,,
+robert.huttenlocher@cineplex.de,,Cineplex,Bruchsal /Friedrichshafen / Mannheim / Neustadt / Singen,deleted,,
+robert.huttenlocher@ftb-spickert.de,,Cineplexe,"Bruchsal, Mannheim, Friedrichshafen, Singen, Neustadt",active,,
+robert.huttenlocher@ftb-spickert.de,,Cineplexe,"Bruchsal, Mannheim, Friedrichshafen, Singen, Neustadt",active,,
+robert.huttenlocher@ftb-spickert.de,,Cineplexe,"Bruchsal, Mannheim, Friedrichshafen, Singen, Neustadt",active,,
+robert.huttenlocher@ftb-spickert.de,,Cineplexe,"Bruchsal, Mannheim, Friedrichshafen, Singen, Neustadt",active,,
+robert.huttenlocher@ftb-spickert.de,,Cineplexe,"Bruchsal, Mannheim, Friedrichshafen, Singen, Neustadt",active,,
 robert.lubrich@koenigfilmdispo.de,,Königfilm Dispo,,active,,
 sandra@filmbooking.de,,Karl Krieg Dispo,,active,,
-susanne.flaexl@cineplex.de,,Cineplexe,Erding,active,,
-susanne.flaexl@cineplex.de,,Cineplexe,Vilsbiburg,active,,
-susanne.flaexl@cineplex.de,,Cineplexe,Neufahrn,active,,
+susanne.flaexl@cineplex.de,,Cineplexe,"Erding, Vilsbiburg, Neufahrn",active,,
+susanne.flaexl@cineplex.de,,Cineplexe,"Erding, Vilsbiburg, Neufahrn",active,,
+susanne.flaexl@cineplex.de,,Cineplexe,"Erding, Vilsbiburg, Neufahrn",active,,
 toni.wadewitz@cineplex.de,,Cineplexe,Berlin,active,,
