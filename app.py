@@ -1,6 +1,6 @@
 import pandas as pd
 import plotly.express as px
-import dash
+import dash, re
 from dash import dcc, html, Input, Output
 
 # --- Load Data ---
@@ -77,12 +77,27 @@ app.layout = html.Div([
     [Output("info-box", "children"), Output("copy-target", "children")],
     Input("map", "clickData")
 )
+
 def display_click_info(clickData):
     if clickData:
-        email, kino, ort, status = clickData['points'][0]['customdata']
+        hover = clickData['points'][0].get('hovertext', '')
+
+        # Extract info from hovertext using regex
+        email_match = re.search(r'📬 <b>Email:</b> ([^<]+)', hover)
+        kino_match = re.search(r'🎬 <b>Kino:</b> ([^<]+)', hover)
+        ort_match = re.search(r'📍 <b>Ort:</b> ([^<]+)', hover)
+        status_match = re.search(r'❓ <b>Status:</b> ([^<]+)', hover)
+
+        email = email_match.group(1) if email_match else "?"
+        kino = kino_match.group(1) if kino_match else "?"
+        ort = ort_match.group(1) if ort_match else "?"
+        status = status_match.group(1) if status_match else "?"
+
         info = f"📬 Email: {email}\n🎬 Kino: {kino}\n📍 Ort: {ort}\n❓ Status: {status}"
         return info, email
+
     return "🖱️ Klicken Sie auf einen Punkt, um Details zu sehen.", ""
+
 
 @app.callback(
     Output("map", "figure"),
