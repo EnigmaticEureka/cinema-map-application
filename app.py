@@ -117,6 +117,8 @@ def update_map(search_text):
         filtered, lat="Latitude", lon="Longitude", color="status",
         hover_name="hovertext", zoom=5, height=700,
         title=f"Kinos gefiltert nach: '{search_text}'",
+        hover_data={"Latitude": False, "Longitude": False, "email": False, "status": False, "Kino": False,
+                    "Ort": False},
         color_discrete_map=color_map,
     )
     new_fig.update_layout(
