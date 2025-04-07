@@ -5,7 +5,7 @@ from dash import dcc, html, Input, Output
 import dash_bootstrap_components as dbc
 
 # --- Load Data ---
-df = pd.read_csv("Mail-Adressen-rapidmail-with-coordinates.csv", encoding="ISO-8859-1")
+df = pd.read_csv("Mail-Adressen-rapidmail-with-coordinates.csv", encoding="utf-8")
 df = df.dropna(subset=["Latitude", "Longitude"])
 df["status"] = df["status"].astype(str).str.strip()
 
